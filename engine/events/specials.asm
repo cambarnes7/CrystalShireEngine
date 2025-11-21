@@ -394,16 +394,20 @@ TrainerHouse:
 
 CompletePokedex:
 ; Set all Pokemon as seen and caught (supports >255 Pokemon)
-	ld bc, 1
+; Uses 16-bit index directly via SetSeenMonIndex/SetCaughtMonIndex
+	ld de, 1
 .loop
-	ld a, c
-	push bc
-	call SetSeenAndCaughtMon
-	pop bc
-	inc bc
-	ld a, c
+	push de
+	call SetSeenMonIndex
+	pop de
+	push de
+	call SetCaughtMonIndex
+	pop de
+	inc de
+	; Compare de to NUM_POKEMON + 1
+	ld a, e
 	sub LOW(NUM_POKEMON + 1)
-	ld a, b
+	ld a, d
 	sbc HIGH(NUM_POKEMON + 1)
 	jr c, .loop
 	ret
