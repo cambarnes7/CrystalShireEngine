@@ -37,7 +37,6 @@ ROMX $01
 ROMX $02
 	"bank2"
 	"Tileset Data 9"
-	"Battle Weather Images"
 ROMX $03
 	"bank3"
 	"VWF"
@@ -63,6 +62,7 @@ ROMX $08
 	"Egg Moves 1"
 ROMX $09
 	"bank9"
+	"Battle Weather Images"
 ROMX $0a
 	"bankA"
 	"Trainer Backpics"
