@@ -251,6 +251,11 @@ NewPokedexOrder:
 	dw LUGIA
 	dw HO_OH
 	dw MEWTWO
+	dw MEWTWO1
+	dw MEWTWO2
+	dw MEWTWO3
+	dw MEWTWO4
+	dw MEWTWO5
 	dw MEW
 	dw CELEBI
 	assert_table_length NUM_POKEMON
