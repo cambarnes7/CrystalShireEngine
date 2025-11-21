@@ -2636,10 +2636,18 @@ Pokedex_LoadSelectedMonTiles:
 	call Pokedex_GetSelectedMon
 	call Pokedex_CheckSeen
 	jr z, .QuestionMark
-	ld a, [wFirstUnownSeen]
-	ld [wUnownLetter], a
 	ld a, [wTempSpecies]
 	ld [wCurPartySpecies], a
+	; Only set wUnownLetter if this is actually UNOWN
+	cp UNOWN
+	jr nz, .NotUnown
+	ld a, [wFirstUnownSeen]
+	and a
+	jr nz, .GotUnownLetter
+	ld a, UNOWN_A ; Default to A if no Unown seen yet
+.GotUnownLetter
+	ld [wUnownLetter], a
+.NotUnown
 	call GetBaseData
 	ld de, vTiles2
 	predef_jump GetMonFrontpic
