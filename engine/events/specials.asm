@@ -391,3 +391,15 @@ TrainerHouse:
 	ld a, [sMysteryGiftTrainerHouseFlag]
 	ld [wScriptVar], a
 	jmp CloseSRAM
+
+CompletePokedex:
+; Set all Pokemon as seen and caught
+	ld a, 1
+.loop
+	push af
+	call SetSeenAndCaughtMon
+	pop af
+	inc a
+	cp NUM_POKEMON + 1
+	jr c, .loop
+	ret
