@@ -272,6 +272,11 @@ DEF JOHTO_POKEMON EQU const_value
 	const LUGIA      ; f9
 	const HO_OH      ; fa
 	const CELEBI     ; fb
+	const MEWTWO1    ; fc
+	const MEWTWO2    ; fd
+	const MEWTWO3    ; fe
+	const MEWTWO4    ; ff
+	const MEWTWO5    ; 100
 DEF NUM_JOHTO_POKEMON EQU const_value - 1
 DEF NUM_POKEMON EQU const_value - 1
 

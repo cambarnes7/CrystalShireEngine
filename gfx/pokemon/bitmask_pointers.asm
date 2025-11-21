@@ -251,4 +251,9 @@ BitmasksPointers:
 	dw LugiaBitmasks
 	dw HoOhBitmasks
 	dw CelebiBitmasks
+	dw MewtwoBitmasks ; MEWTWO1
+	dw MewtwoBitmasks ; MEWTWO2
+	dw MewtwoBitmasks ; MEWTWO3
+	dw MewtwoBitmasks ; MEWTWO4
+	dw MewtwoBitmasks ; MEWTWO5
 	assert_table_length NUM_POKEMON

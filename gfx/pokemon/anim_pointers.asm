@@ -251,4 +251,9 @@ AnimationPointers:
 	dw LugiaAnimation
 	dw HoOhAnimation
 	dw CelebiAnimation
+	dw MewtwoAnimation ; MEWTWO1
+	dw MewtwoAnimation ; MEWTWO2
+	dw MewtwoAnimation ; MEWTWO3
+	dw MewtwoAnimation ; MEWTWO4
+	dw MewtwoAnimation ; MEWTWO5
 	assert_table_length NUM_POKEMON

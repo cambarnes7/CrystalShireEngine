@@ -251,4 +251,9 @@ FramesPointers:
 	dba LugiaFrames
 	dba HoOhFrames
 	dba CelebiFrames
+	dba MewtwoFrames ; MEWTWO1
+	dba MewtwoFrames ; MEWTWO2
+	dba MewtwoFrames ; MEWTWO3
+	dba MewtwoFrames ; MEWTWO4
+	dba MewtwoFrames ; MEWTWO5
 	assert_table_length NUM_POKEMON

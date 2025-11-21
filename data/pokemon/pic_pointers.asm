@@ -518,4 +518,14 @@ PokemonPicPointers::
 	dba HoOhBackpic
 	dba CelebiFrontpic
 	dba CelebiBackpic
+	dba MewtwoFrontpic ; MEWTWO1
+	dba MewtwoBackpic
+	dba MewtwoFrontpic ; MEWTWO2
+	dba MewtwoBackpic
+	dba MewtwoFrontpic ; MEWTWO3
+	dba MewtwoBackpic
+	dba MewtwoFrontpic ; MEWTWO4
+	dba MewtwoBackpic
+	dba MewtwoFrontpic ; MEWTWO5
+	dba MewtwoBackpic
 	assert_table_length NUM_POKEMON + 1

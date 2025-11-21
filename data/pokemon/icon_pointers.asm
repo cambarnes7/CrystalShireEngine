@@ -256,4 +256,9 @@ IconPointers:
 	dw LugiaIcon
 	dw HoOhIcon
 	dw CelebiIcon
+	dw MewtwoIcon ; MEWTWO1
+	dw MewtwoIcon ; MEWTWO2
+	dw MewtwoIcon ; MEWTWO3
+	dw MewtwoIcon ; MEWTWO4
+	dw MewtwoIcon ; MEWTWO5
 	assert_table_length NUM_POKEMON + 1

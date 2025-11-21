@@ -101,6 +101,11 @@ EggMovePointers2::
 	dw NoEggMoves2
 	dw NoEggMoves2
 	dw NoEggMoves2
+	dw NoEggMoves2 ; MEWTWO1
+	dw NoEggMoves2 ; MEWTWO2
+	dw NoEggMoves2 ; MEWTWO3
+	dw NoEggMoves2 ; MEWTWO4
+	dw NoEggMoves2 ; MEWTWO5
 .IndirectEnd::
 
 ChikoritaEggMoves:

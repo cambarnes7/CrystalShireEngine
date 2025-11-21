@@ -134,6 +134,11 @@ AlphabeticalPokedexOrder:
 	dw METAPOD
 	dw MEW
 	dw MEWTWO
+	dw MEWTWO1
+	dw MEWTWO2
+	dw MEWTWO3
+	dw MEWTWO4
+	dw MEWTWO5
 	dw MILTANK
 	dw MISDREAVUS
 	dw MOLTRES

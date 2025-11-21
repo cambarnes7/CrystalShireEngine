@@ -535,5 +535,20 @@ INCBIN "gfx/pokemon/ho_oh/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/ho_oh/shiny.pal"
 INCBIN "gfx/pokemon/celebi/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/celebi/shiny.pal"
+; MEWTWO1 - uses Mewtwo's palette
+INCBIN "gfx/pokemon/mewtwo/normal.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/mewtwo/shiny.pal"
+; MEWTWO2 - uses Mewtwo's palette
+INCBIN "gfx/pokemon/mewtwo/normal.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/mewtwo/shiny.pal"
+; MEWTWO3 - uses Mewtwo's palette
+INCBIN "gfx/pokemon/mewtwo/normal.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/mewtwo/shiny.pal"
+; MEWTWO4 - uses Mewtwo's palette
+INCBIN "gfx/pokemon/mewtwo/normal.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/mewtwo/shiny.pal"
+; MEWTWO5 - uses Mewtwo's palette
+INCBIN "gfx/pokemon/mewtwo/normal.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/mewtwo/shiny.pal"
 
 	assert_table_length NUM_POKEMON + 1

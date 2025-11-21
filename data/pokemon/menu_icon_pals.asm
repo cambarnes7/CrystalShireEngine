@@ -261,4 +261,9 @@ MonMenuIconPals:
 	icon_pals BLUE,   TEAL   ; LUGIA
 	icon_pals RED,    BROWN  ; HO_OH
 	icon_pals GREEN,  PINK   ; CELEBI
+	icon_pals PURPLE, BROWN  ; MEWTWO1
+	icon_pals PURPLE, BROWN  ; MEWTWO2
+	icon_pals PURPLE, BROWN  ; MEWTWO3
+	icon_pals PURPLE, BROWN  ; MEWTWO4
+	icon_pals PURPLE, BROWN  ; MEWTWO5
 	assert_table_length NUM_POKEMON

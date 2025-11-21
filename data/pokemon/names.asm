@@ -255,4 +255,9 @@ PokemonNames::
 	dname "LUGIA"
 	dname "HO-OH"
 	dname "CELEBI"
+	dname "MEWTWO1"
+	dname "MEWTWO2"
+	dname "MEWTWO3"
+	dname "MEWTWO4"
+	dname "MEWTWO5"
 	assert_table_length NUM_POKEMON

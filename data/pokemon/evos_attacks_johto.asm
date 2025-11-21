@@ -101,6 +101,11 @@ EvosAttacksPointers2::
 	dw LugiaEvosAttacks
 	dw HoOhEvosAttacks
 	dw CelebiEvosAttacks
+	dw Mewtwo1EvosAttacks
+	dw Mewtwo2EvosAttacks
+	dw Mewtwo3EvosAttacks
+	dw Mewtwo4EvosAttacks
+	dw Mewtwo5EvosAttacks
 .IndirectEnd::
 
 ChikoritaEvosAttacks:
@@ -1402,6 +1407,81 @@ CelebiEvosAttacks:
 	dbw 30, FUTURE_SIGHT
 	dbw 40, BATON_PASS
 	dbw 50, PERISH_SONG
+	db 0 ; no more level-up moves
+
+Mewtwo1EvosAttacks:
+	db 0 ; no more evolutions
+	dbw 1, CONFUSION
+	dbw 1, DISABLE
+	dbw 11, BARRIER
+	dbw 22, SWIFT
+	dbw 33, PSYCH_UP
+	dbw 44, FUTURE_SIGHT
+	dbw 55, MIST
+	dbw 66, PSYCHIC_M
+	dbw 77, AMNESIA
+	dbw 88, RECOVER
+	dbw 99, SAFEGUARD
+	db 0 ; no more level-up moves
+
+Mewtwo2EvosAttacks:
+	db 0 ; no more evolutions
+	dbw 1, CONFUSION
+	dbw 1, DISABLE
+	dbw 11, BARRIER
+	dbw 22, SWIFT
+	dbw 33, PSYCH_UP
+	dbw 44, FUTURE_SIGHT
+	dbw 55, MIST
+	dbw 66, PSYCHIC_M
+	dbw 77, AMNESIA
+	dbw 88, RECOVER
+	dbw 99, SAFEGUARD
+	db 0 ; no more level-up moves
+
+Mewtwo3EvosAttacks:
+	db 0 ; no more evolutions
+	dbw 1, CONFUSION
+	dbw 1, DISABLE
+	dbw 11, BARRIER
+	dbw 22, SWIFT
+	dbw 33, PSYCH_UP
+	dbw 44, FUTURE_SIGHT
+	dbw 55, MIST
+	dbw 66, PSYCHIC_M
+	dbw 77, AMNESIA
+	dbw 88, RECOVER
+	dbw 99, SAFEGUARD
+	db 0 ; no more level-up moves
+
+Mewtwo4EvosAttacks:
+	db 0 ; no more evolutions
+	dbw 1, CONFUSION
+	dbw 1, DISABLE
+	dbw 11, BARRIER
+	dbw 22, SWIFT
+	dbw 33, PSYCH_UP
+	dbw 44, FUTURE_SIGHT
+	dbw 55, MIST
+	dbw 66, PSYCHIC_M
+	dbw 77, AMNESIA
+	dbw 88, RECOVER
+	dbw 99, SAFEGUARD
+	db 0 ; no more level-up moves
+
+Mewtwo5EvosAttacks:
+	db 0 ; no more evolutions
+	dbw 1, CONFUSION
+	dbw 1, DISABLE
+	dbw 11, BARRIER
+	dbw 22, SWIFT
+	dbw 33, PSYCH_UP
+	dbw 44, FUTURE_SIGHT
+	dbw 55, MIST
+	dbw 66, PSYCHIC_M
+	dbw 77, AMNESIA
+	dbw 88, RECOVER
+	dbw 99, SAFEGUARD
 	db 0 ; no more level-up moves
 
 ENDSECTION
