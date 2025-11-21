@@ -252,4 +252,9 @@ FirstEvoStages::
 	dw LUGIA
 	dw HO_OH
 	dw CELEBI
+	dw MEWTWO     ; MEWTWO1
+	dw MEWTWO     ; MEWTWO2
+	dw MEWTWO     ; MEWTWO3
+	dw MEWTWO     ; MEWTWO4
+	dw MEWTWO     ; MEWTWO5
 	assert_table_length NUM_POKEMON

@@ -252,5 +252,10 @@ INCBIN "gfx/footprints/tyranitar.1bpp"
 INCBIN "gfx/footprints/lugia.1bpp"
 INCBIN "gfx/footprints/ho_oh.1bpp"
 INCBIN "gfx/footprints/celebi.1bpp"
+INCBIN "gfx/footprints/mewtwo.1bpp" ; MEWTWO1
+INCBIN "gfx/footprints/mewtwo.1bpp" ; MEWTWO2
+INCBIN "gfx/footprints/mewtwo.1bpp" ; MEWTWO3
+INCBIN "gfx/footprints/mewtwo.1bpp" ; MEWTWO4
+INCBIN "gfx/footprints/mewtwo.1bpp" ; MEWTWO5
 
 	assert_table_length NUM_POKEMON

@@ -393,13 +393,17 @@ TrainerHouse:
 	jmp CloseSRAM
 
 CompletePokedex:
-; Set all Pokemon as seen and caught
-	ld a, 1
+; Set all Pokemon as seen and caught (supports >255 Pokemon)
+	ld bc, 1
 .loop
-	push af
+	ld a, c
+	push bc
 	call SetSeenAndCaughtMon
-	pop af
-	inc a
-	cp NUM_POKEMON + 1
+	pop bc
+	inc bc
+	ld a, c
+	sub LOW(NUM_POKEMON + 1)
+	ld a, b
+	sbc HIGH(NUM_POKEMON + 1)
 	jr c, .loop
 	ret
