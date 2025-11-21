@@ -993,9 +993,11 @@ Pokedex_LoadListingScrollParams:
 	ret
 
 .underflow
-	ld e, h ; h = 0 here
-	ld a, [wDexListingEnd]
-	ld d, a
+	ld e, h ; h = 0 here, so e = 0 (no scrolling possible)
+	; Recover remaining items count: l was corrupted by 'sub d', so add d back
+	ld a, l
+	add d
+	ld d, a ; d = remaining items that fit on screen
 	ret
 
 Pokedex_NextOrPreviousDexEntry:
