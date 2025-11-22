@@ -127,7 +127,6 @@ ROMX $22
 	"Crystal Features 2"
 ROMX $23
 	"bank23"
-	"Pics 1b"
 ROMX $24
 	"bank24"
 	"Pokemon Names Gen3"
@@ -258,6 +257,7 @@ ROMX $5a
 	"Pics 19"
 ROMX $5b
 	"bank5B"
+	"Pics 1b"
 ROMX $5c
 	"Mon Icons 1"
 ROMX $5d
