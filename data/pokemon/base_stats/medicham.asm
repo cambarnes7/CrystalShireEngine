@@ -1,7 +1,7 @@
 	db 0 ; species ID placeholder
 
 	db  60,  60,  75,  80,  60,  75
-	evs  0,   0,   0,   0,   0,   0
+	evs  0,   0,   0,   1,   0,   0
 	;   hp  atk  def  spd  sat  sdf
 
 	db FIGHTING, PSYCHIC ; type

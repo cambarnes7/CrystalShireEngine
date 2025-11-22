@@ -1,7 +1,7 @@
 	db 0 ; species ID placeholder
 
 	db  75,  70,  90,  80,  70,  105
-	evs  0,   0,   0,   0,   0,   0
+	evs  0,   0,   0,   0,   0,   1
 	;   hp  atk  def  spd  sat  sdf
 
 	db DRAGON, FLYING ; type

@@ -1,7 +1,7 @@
 	db 0 ; species ID placeholder
 
 	db  70,  43,  53,  40,  43,  53
-	evs  0,   0,   0,   0,   0,   0
+	evs  1,   0,   0,   0,   0,   0
 	;   hp  atk  def  spd  sat  sdf
 
 	db POISON, POISON ; type

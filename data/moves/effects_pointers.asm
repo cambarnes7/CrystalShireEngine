@@ -158,4 +158,46 @@ MoveEffectsPointers:
 	dw BeatUp
 	dw Fly
 	dw DefenseCurl
+; Generation 3 effects (using placeholders until implemented)
+	dw NormalHit ; EFFECT_HAIL
+	dw Fly ; EFFECT_DIVE
+	dw Fly ; EFFECT_BOUNCE
+	dw NormalHit ; EFFECT_BRICK_BREAK
+	dw NormalHit ; EFFECT_BULK_UP
+	dw NormalHit ; EFFECT_CALM_MIND
+	dw NormalHit ; EFFECT_DRAGON_DANCE
+	dw DefenseUp2 ; EFFECT_IRON_DEFENSE_EFF
+	dw NormalHit ; EFFECT_FOCUS_PUNCH
+	dw NormalHit ; EFFECT_WISH
+	dw NormalHit ; EFFECT_YAWN
+	dw Reversal ; EFFECT_ERUPTION
+	dw NormalHit ; EFFECT_INGRAIN
+	dw NormalHit ; EFFECT_KNOCK_OFF
+	dw NormalHit ; EFFECT_MEMENTO
+	dw NormalHit ; EFFECT_OVERHEAT
+	dw NormalHit ; EFFECT_SUPERPOWER
+	dw NormalHit ; EFFECT_TAUNT
+	dw NormalHit ; EFFECT_TORMENT
+	dw NormalHit ; EFFECT_UPROAR
+	dw NormalHit ; EFFECT_REVENGE
+	dw NormalHit ; EFFECT_SMELLING_SALTS
+	dw NormalHit ; EFFECT_STOCKPILE
+	dw NormalHit ; EFFECT_SPIT_UP
+	dw Heal ; EFFECT_SWALLOW
+	dw HealBell ; EFFECT_REFRESH
+	dw NormalHit ; EFFECT_RECYCLE
+	dw Metronome ; EFFECT_ASSIST
+	dw NormalHit ; EFFECT_SNATCH
+	dw NormalHit ; EFFECT_GRUDGE
+	dw NormalHit ; EFFECT_IMPRISON
+	dw NormalHit ; EFFECT_MAGIC_COAT
+	dw NormalHit ; EFFECT_SKILL_SWAP
+	dw NormalHit ; EFFECT_ROLE_PLAY
+	dw FutureSight ; EFFECT_DOOM_DESIRE
+	dw NormalHit ; EFFECT_FOLLOW_ME
+	dw NormalHit ; EFFECT_HELPING_HAND
+	dw Thief ; EFFECT_TRICK
+	dw NormalHit ; EFFECT_NATURE_POWER
+	dw NormalHit ; EFFECT_CHARGE
+	dw NormalHit ; EFFECT_CAMOUFLAGE
 	assert_table_length NUM_MOVE_EFFECTS

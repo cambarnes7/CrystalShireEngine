@@ -1,7 +1,7 @@
 	db 0 ; species ID placeholder
 
 	db  70,  70,  40,  60,  60,  40
-	evs  0,   0,   0,   0,   0,   0
+	evs  0,   1,   0,   0,   0,   0
 	;   hp  atk  def  spd  sat  sdf
 
 	db GRASS, DARK ; type

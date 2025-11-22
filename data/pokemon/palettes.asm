@@ -807,4 +807,4 @@ INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
 INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; DEOXYS
 INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
 
-	assert_table_length NUM_POKEMON
+	assert_table_length NUM_POKEMON + 1 ; +1 for the 000 placeholder entry

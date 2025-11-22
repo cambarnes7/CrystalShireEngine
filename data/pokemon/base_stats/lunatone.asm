@@ -1,7 +1,7 @@
 	db 0 ; species ID placeholder
 
 	db  70,  55,  65,  70,  95,  85
-	evs  0,   0,   0,   0,   0,   0
+	evs  0,   0,   0,   0,   1,   0
 	;   hp  atk  def  spd  sat  sdf
 
 	db ROCK, PSYCHIC ; type
