@@ -528,140 +528,274 @@ PokemonPicPointers::
 	dba MewtwoBackpic
 	dba MewtwoFrontpic ; MEWTWO5
 	dba MewtwoBackpic
+	dba BulbasaurFrontpic ; TREECKO
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; GROVYLE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SCEPTILE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; TORCHIC
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; COMBUSKEN
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; BLAZIKEN
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MUDKIP
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MARSHTOMP
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SWAMPERT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; POOCHYENA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MIGHTYENA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ZIGZAGOON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LINOONE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; WURMPLE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SILCOON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; BEAUTIFLY
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CASCOON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; DUSTOX
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LOTAD
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LOMBRE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LUDICOLO
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SEEDOT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; NUZLEAF
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SHIFTRY
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; TAILLOW
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SWELLOW
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; WINGULL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; PELIPPER
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; RALTS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; KIRLIA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; GARDEVOIR
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SURSKIT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MASQUERAIN
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SHROOMISH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; BRELOOM
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SLAKOTH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; VIGOROTH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SLAKING
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; NINCADA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; NINJASK
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SHEDINJA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; WHISMUR
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LOUDRED
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; EXPLOUD
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MAKUHITA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; HARIYAMA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; AZURILL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; NOSEPASS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SKITTY
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; DELCATTY
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SABLEYE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MAWILE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ARON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LAIRON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; AGGRON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MEDITITE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MEDICHAM
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ELECTRIKE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MANECTRIC
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; PLUSLE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MINUN
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; VOLBEAT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ILLUMISE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ROSELIA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; GULPIN
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SWALOT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CARVANHA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SHARPEDO
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; WAILMER
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; WAILORD
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; NUMEL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CAMERUPT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; TORKOAL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SPOINK
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; GRUMPIG
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SPINDA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; TRAPINCH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; VIBRAVA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; FLYGON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CACNEA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CACTURNE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SWABLU
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ALTARIA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ZANGOOSE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SEVIPER
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LUNATONE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SOLROCK
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; BARBOACH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; WHISCASH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CORPHISH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CRAWDAUNT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; BALTOY
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CLAYDOL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LILEEP
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CRADILY
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ANORITH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ARMALDO
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; FEEBAS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; MILOTIC
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CASTFORM
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; KECLEON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SHUPPET
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; BANETTE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; DUSKULL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; DUSCLOPS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; TROPIUS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CHIMECHO
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; ABSOL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; WYNAUT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SNORUNT
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; GLALIE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SPHEAL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SEALEO
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; WALREIN
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; CLAMPERL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; HUNTAIL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; GOREBYSS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; RELICANTH
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LUVDISC
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; BAGON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SHELGON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; SALAMENCE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; BELDUM
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; METANG
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; METAGROSS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; REGIROCK
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; REGICE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; REGISTEEL
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LATIAS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; LATIOS
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; KYOGRE
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; GROUDON
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; RAYQUAZA
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; JIRACHI
+	dba BulbasaurBackpic
+	dba BulbasaurFrontpic ; DEOXYS
+	dba BulbasaurBackpic
 	assert_table_length NUM_POKEMON + 1
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; TREECKO
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; GROVYLE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SCEPTILE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; TORCHIC
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; COMBUSKEN
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; BLAZIKEN
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MUDKIP
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MARSHTOMP
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SWAMPERT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; POOCHYENA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MIGHTYENA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ZIGZAGOON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LINOONE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; WURMPLE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SILCOON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; BEAUTIFLY
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CASCOON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; DUSTOX
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LOTAD
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LOMBRE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LUDICOLO
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SEEDOT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; NUZLEAF
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SHIFTRY
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; TAILLOW
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SWELLOW
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; WINGULL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; PELIPPER
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; RALTS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; KIRLIA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; GARDEVOIR
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SURSKIT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MASQUERAIN
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SHROOMISH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; BRELOOM
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SLAKOTH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; VIGOROTH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SLAKING
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; NINCADA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; NINJASK
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SHEDINJA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; WHISMUR
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LOUDRED
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; EXPLOUD
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MAKUHITA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; HARIYAMA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; AZURILL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; NOSEPASS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SKITTY
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; DELCATTY
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SABLEYE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MAWILE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ARON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LAIRON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; AGGRON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MEDITITE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MEDICHAM
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ELECTRIKE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MANECTRIC
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; PLUSLE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MINUN
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; VOLBEAT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ILLUMISE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ROSELIA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; GULPIN
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SWALOT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CARVANHA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SHARPEDO
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; WAILMER
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; WAILORD
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; NUMEL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CAMERUPT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; TORKOAL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SPOINK
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; GRUMPIG
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SPINDA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; TRAPINCH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; VIBRAVA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; FLYGON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CACNEA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CACTURNE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SWABLU
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ALTARIA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ZANGOOSE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SEVIPER
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LUNATONE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SOLROCK
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; BARBOACH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; WHISCASH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CORPHISH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CRAWDAUNT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; BALTOY
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CLAYDOL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LILEEP
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CRADILY
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ANORITH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ARMALDO
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; FEEBAS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; MILOTIC
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CASTFORM
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; KECLEON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SHUPPET
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; BANETTE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; DUSKULL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; DUSCLOPS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; TROPIUS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CHIMECHO
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; ABSOL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; WYNAUT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SNORUNT
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; GLALIE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SPHEAL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SEALEO
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; WALREIN
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; CLAMPERL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; HUNTAIL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; GOREBYSS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; RELICANTH
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LUVDISC
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; BAGON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SHELGON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; SALAMENCE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; BELDUM
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; METANG
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; METAGROSS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; REGIROCK
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; REGICE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; REGISTEEL
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LATIAS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; LATIOS
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; KYOGRE
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; GROUDON
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; RAYQUAZA
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; JIRACHI
-	pokemon_pic BulbasaurPicFront,      BulbasaurPicBack ; DEOXYS
-	assert_table_length NUM_POKEMON
