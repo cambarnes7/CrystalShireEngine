@@ -310,6 +310,9 @@ ROMX $74
 	"Pokedex Entries 193-251"
 ROMX $75
 	"16-bit ID stuff"
+ROMX $76
+	"Pokemon Base Stats"
+	"Pokemon Names"
 ROMX $77
 	"Unown Font"
 	"Print Party"
@@ -319,6 +322,8 @@ ROMX $77
 	"European Mail"
 ROMX $78
 	"Tileset Data 8"
+ROMX $79
+	"Time Capsule Data"
 ROMX $7b
 	"Battle Tower Text"
 ROMX $7c

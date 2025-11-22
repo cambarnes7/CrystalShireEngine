@@ -236,7 +236,15 @@ INCLUDE "engine/link/init_list.asm"
 INCLUDE "engine/pokemon/experience.asm"
 INCLUDE "engine/pokemon/switchpartymons.asm"
 INCLUDE "engine/gfx/load_pics.asm"
+
+
+SECTION "Pokemon Base Stats", ROMX
+
 INCLUDE "data/pokemon/base_stats.asm"
+
+
+SECTION "Pokemon Names", ROMX
+
 INCLUDE "data/pokemon/names.asm"
 
 
@@ -467,11 +475,15 @@ INCLUDE "engine/link/time_capsule.asm"
 INCLUDE "engine/events/name_rater.asm"
 INCLUDE "engine/events/play_slow_cry.asm"
 INCLUDE "engine/pokedex/new_pokedex_entry.asm"
-INCLUDE "engine/link/time_capsule_2.asm"
 INCLUDE "engine/pokedex/unown_dex.asm"
 INCLUDE "engine/events/magikarp.asm"
 INCLUDE "engine/battle/hidden_power.asm"
 INCLUDE "engine/battle/misc.asm"
+
+
+SECTION "Time Capsule Data", ROMX
+
+INCLUDE "engine/link/time_capsule_2.asm"
 
 
 SECTION "bank3F", ROMX

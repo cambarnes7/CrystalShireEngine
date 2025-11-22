@@ -1,5 +1,6 @@
 Pokered_MonIndices:
 	table_width 2
+	dw 0 ; placeholder for index 0
 	dw RHYDON
 	dw KANGASKHAN
 	dw NIDORAN_M
@@ -190,7 +191,7 @@ Pokered_MonIndices:
 	dw BELLSPROUT
 	dw WEEPINBELL
 	dw VICTREEBEL
-	assert_table_length 190 ; gen 1 mon indexes
+	assert_table_length 191 ; gen 1 mon indexes + index 0 placeholder
 	dw CHIKORITA
 	dw BAYLEEF
 	dw MEGANIUM
