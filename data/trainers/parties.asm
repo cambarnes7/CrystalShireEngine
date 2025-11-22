@@ -135,22 +135,22 @@ ClairGroup:
 	end_list_items
 
 Rival1Group:
-	next_list_item ; RIVAL1 (1)
+	next_list_item ; RIVAL1 (1) - Rival uses this when player picked Registeel
 	db "?@", TRAINERTYPE_NORMAL
 	db 5
-	dw CHIKORITA
+	dw JIRACHI
 	db -1 ; end
 
-	next_list_item ; RIVAL1 (2)
+	next_list_item ; RIVAL1 (2) - Rival uses this when player picked Jirachi
 	db "?@", TRAINERTYPE_NORMAL
 	db 5
-	dw CYNDAQUIL
+	dw REGICE
 	db -1 ; end
 
-	next_list_item ; RIVAL1 (3)
+	next_list_item ; RIVAL1 (3) - Rival uses this when player picked Regice
 	db "?@", TRAINERTYPE_NORMAL
 	db 5
-	dw TOTODILE
+	dw REGISTEEL
 	db -1 ; end
 
 	next_list_item ; RIVAL1 (4)
