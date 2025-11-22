@@ -2073,3 +2073,456 @@ Cry_Rattata_Ch8:
 	noise_note 1, 10, 2, 57
 	noise_note 8, 9, 1, 73
 	sound_ret
+
+; Generation 3 Pokemon cries
+; All use Bulbasaur's channel data for now
+
+Cry_Treecko:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Torchic:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Mudkip:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Poochyena:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Zigzagoon:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Wurmple:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Lotad:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Seedot:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Taillow:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Wingull:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Ralts:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Surskit:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Shroomish:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Slakoth:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Nincada:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Whismur:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Makuhita:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Azurill:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Nosepass:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Skitty:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Sableye:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Mawile:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Aron:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Meditite:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Electrike:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Plusle:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Minun:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Volbeat:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Illumise:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Roselia:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Gulpin:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Carvanha:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Wailmer:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Numel:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Torkoal:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Spoink:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Spinda:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Trapinch:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Cacnea:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Swablu:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Zangoose:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Seviper:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Lunatone:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Solrock:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Barboach:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Corphish:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Baltoy:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Lileep:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Anorith:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Feebas:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Castform:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Kecleon:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Shuppet:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Duskull:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Tropius:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Chimecho:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Absol:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Wynaut:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Snorunt:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Spheal:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Clamperl:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Relicanth:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Luvdisc:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Bagon:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Beldum:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Regirock:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Regice:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Registeel:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Latias:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Latios:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Kyogre:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Groudon:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Rayquaza:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Jirachi:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8
+
+Cry_Deoxys:
+	channel_count 3
+	channel 5, Cry_Bulbasaur_Ch5
+	channel 6, Cry_Bulbasaur_Ch6
+	channel 8, Cry_Bulbasaur_Ch8

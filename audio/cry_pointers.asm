@@ -69,80 +69,80 @@ Cries:
 	dba Cry_Aipom
 	dba Cry_Dunsparce
 	dba Cry_Donphan
-; gen 3 - all use Bulbasaur cry data for now
-	dba Cry_Bulbasaur ; CRY_TREECKO
-	dba Cry_Bulbasaur ; CRY_TORCHIC
-	dba Cry_Bulbasaur ; CRY_MUDKIP
-	dba Cry_Bulbasaur ; CRY_POOCHYENA
-	dba Cry_Bulbasaur ; CRY_ZIGZAGOON
-	dba Cry_Bulbasaur ; CRY_WURMPLE
-	dba Cry_Bulbasaur ; CRY_LOTAD
-	dba Cry_Bulbasaur ; CRY_SEEDOT
-	dba Cry_Bulbasaur ; CRY_TAILLOW
-	dba Cry_Bulbasaur ; CRY_WINGULL
-	dba Cry_Bulbasaur ; CRY_RALTS
-	dba Cry_Bulbasaur ; CRY_SURSKIT
-	dba Cry_Bulbasaur ; CRY_SHROOMISH
-	dba Cry_Bulbasaur ; CRY_SLAKOTH
-	dba Cry_Bulbasaur ; CRY_NINCADA
-	dba Cry_Bulbasaur ; CRY_WHISMUR
-	dba Cry_Bulbasaur ; CRY_MAKUHITA
-	dba Cry_Bulbasaur ; CRY_AZURILL
-	dba Cry_Bulbasaur ; CRY_NOSEPASS
-	dba Cry_Bulbasaur ; CRY_SKITTY
-	dba Cry_Bulbasaur ; CRY_SABLEYE
-	dba Cry_Bulbasaur ; CRY_MAWILE
-	dba Cry_Bulbasaur ; CRY_ARON
-	dba Cry_Bulbasaur ; CRY_MEDITITE
-	dba Cry_Bulbasaur ; CRY_ELECTRIKE
-	dba Cry_Bulbasaur ; CRY_PLUSLE
-	dba Cry_Bulbasaur ; CRY_MINUN
-	dba Cry_Bulbasaur ; CRY_VOLBEAT
-	dba Cry_Bulbasaur ; CRY_ILLUMISE
-	dba Cry_Bulbasaur ; CRY_ROSELIA
-	dba Cry_Bulbasaur ; CRY_GULPIN
-	dba Cry_Bulbasaur ; CRY_CARVANHA
-	dba Cry_Bulbasaur ; CRY_WAILMER
-	dba Cry_Bulbasaur ; CRY_NUMEL
-	dba Cry_Bulbasaur ; CRY_TORKOAL
-	dba Cry_Bulbasaur ; CRY_SPOINK
-	dba Cry_Bulbasaur ; CRY_SPINDA
-	dba Cry_Bulbasaur ; CRY_TRAPINCH
-	dba Cry_Bulbasaur ; CRY_CACNEA
-	dba Cry_Bulbasaur ; CRY_SWABLU
-	dba Cry_Bulbasaur ; CRY_ZANGOOSE
-	dba Cry_Bulbasaur ; CRY_SEVIPER
-	dba Cry_Bulbasaur ; CRY_LUNATONE
-	dba Cry_Bulbasaur ; CRY_SOLROCK
-	dba Cry_Bulbasaur ; CRY_BARBOACH
-	dba Cry_Bulbasaur ; CRY_CORPHISH
-	dba Cry_Bulbasaur ; CRY_BALTOY
-	dba Cry_Bulbasaur ; CRY_LILEEP
-	dba Cry_Bulbasaur ; CRY_ANORITH
-	dba Cry_Bulbasaur ; CRY_FEEBAS
-	dba Cry_Bulbasaur ; CRY_CASTFORM
-	dba Cry_Bulbasaur ; CRY_KECLEON
-	dba Cry_Bulbasaur ; CRY_SHUPPET
-	dba Cry_Bulbasaur ; CRY_DUSKULL
-	dba Cry_Bulbasaur ; CRY_TROPIUS
-	dba Cry_Bulbasaur ; CRY_CHIMECHO
-	dba Cry_Bulbasaur ; CRY_ABSOL
-	dba Cry_Bulbasaur ; CRY_WYNAUT
-	dba Cry_Bulbasaur ; CRY_SNORUNT
-	dba Cry_Bulbasaur ; CRY_SPHEAL
-	dba Cry_Bulbasaur ; CRY_CLAMPERL
-	dba Cry_Bulbasaur ; CRY_RELICANTH
-	dba Cry_Bulbasaur ; CRY_LUVDISC
-	dba Cry_Bulbasaur ; CRY_BAGON
-	dba Cry_Bulbasaur ; CRY_BELDUM
-	dba Cry_Bulbasaur ; CRY_REGIROCK
-	dba Cry_Bulbasaur ; CRY_REGICE
-	dba Cry_Bulbasaur ; CRY_REGISTEEL
-	dba Cry_Bulbasaur ; CRY_LATIAS
-	dba Cry_Bulbasaur ; CRY_LATIOS
-	dba Cry_Bulbasaur ; CRY_KYOGRE
-	dba Cry_Bulbasaur ; CRY_GROUDON
-	dba Cry_Bulbasaur ; CRY_RAYQUAZA
-	dba Cry_Bulbasaur ; CRY_JIRACHI
-	dba Cry_Bulbasaur ; CRY_DEOXYS
+; gen 3 - all reference Bulbasaur's channel data
+	dba Cry_Treecko
+	dba Cry_Torchic
+	dba Cry_Mudkip
+	dba Cry_Poochyena
+	dba Cry_Zigzagoon
+	dba Cry_Wurmple
+	dba Cry_Lotad
+	dba Cry_Seedot
+	dba Cry_Taillow
+	dba Cry_Wingull
+	dba Cry_Ralts
+	dba Cry_Surskit
+	dba Cry_Shroomish
+	dba Cry_Slakoth
+	dba Cry_Nincada
+	dba Cry_Whismur
+	dba Cry_Makuhita
+	dba Cry_Azurill
+	dba Cry_Nosepass
+	dba Cry_Skitty
+	dba Cry_Sableye
+	dba Cry_Mawile
+	dba Cry_Aron
+	dba Cry_Meditite
+	dba Cry_Electrike
+	dba Cry_Plusle
+	dba Cry_Minun
+	dba Cry_Volbeat
+	dba Cry_Illumise
+	dba Cry_Roselia
+	dba Cry_Gulpin
+	dba Cry_Carvanha
+	dba Cry_Wailmer
+	dba Cry_Numel
+	dba Cry_Torkoal
+	dba Cry_Spoink
+	dba Cry_Spinda
+	dba Cry_Trapinch
+	dba Cry_Cacnea
+	dba Cry_Swablu
+	dba Cry_Zangoose
+	dba Cry_Seviper
+	dba Cry_Lunatone
+	dba Cry_Solrock
+	dba Cry_Barboach
+	dba Cry_Corphish
+	dba Cry_Baltoy
+	dba Cry_Lileep
+	dba Cry_Anorith
+	dba Cry_Feebas
+	dba Cry_Castform
+	dba Cry_Kecleon
+	dba Cry_Shuppet
+	dba Cry_Duskull
+	dba Cry_Tropius
+	dba Cry_Chimecho
+	dba Cry_Absol
+	dba Cry_Wynaut
+	dba Cry_Snorunt
+	dba Cry_Spheal
+	dba Cry_Clamperl
+	dba Cry_Relicanth
+	dba Cry_Luvdisc
+	dba Cry_Bagon
+	dba Cry_Beldum
+	dba Cry_Regirock
+	dba Cry_Regice
+	dba Cry_Registeel
+	dba Cry_Latias
+	dba Cry_Latios
+	dba Cry_Kyogre
+	dba Cry_Groudon
+	dba Cry_Rayquaza
+	dba Cry_Jirachi
+	dba Cry_Deoxys
 	assert_table_length NUM_CRIES
