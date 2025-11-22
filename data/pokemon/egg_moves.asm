@@ -12,6 +12,7 @@ EggMovePointers::
 	indirect_table 2, 1
 	indirect_entries NUM_KANTO_POKEMON, EggMovePointers1
 	indirect_entries NUM_JOHTO_POKEMON, EggMovePointers2
+	indirect_entries NUM_POKEMON, EggMovePointers3
 	indirect_table_end
 
 INCLUDE "data/pokemon/egg_moves_kanto.asm"

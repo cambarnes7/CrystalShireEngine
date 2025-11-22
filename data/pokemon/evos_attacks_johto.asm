@@ -101,6 +101,9 @@ EvosAttacksPointers2::
 	dw LugiaEvosAttacks
 	dw HoOhEvosAttacks
 	dw CelebiEvosAttacks
+.IndirectEnd::
+
+EvosAttacksPointers3::
 ; Generation 3 Pokemon (Hoenn)
 	dw TreeckoEvosAttacks
 	dw GrovyleEvosAttacks

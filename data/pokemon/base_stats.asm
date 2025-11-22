@@ -286,7 +286,6 @@ INCLUDE "data/pokemon/base_stats/tyranitar.asm"
 INCLUDE "data/pokemon/base_stats/lugia.asm"
 INCLUDE "data/pokemon/base_stats/ho_oh.asm"
 INCLUDE "data/pokemon/base_stats/celebi.asm"
-.IndirectEnd::
 INCLUDE "data/pokemon/base_stats/treecko.asm"
 INCLUDE "data/pokemon/base_stats/grovyle.asm"
 INCLUDE "data/pokemon/base_stats/sceptile.asm"
@@ -422,3 +421,4 @@ INCLUDE "data/pokemon/base_stats/groudon.asm"
 INCLUDE "data/pokemon/base_stats/rayquaza.asm"
 INCLUDE "data/pokemon/base_stats/jirachi.asm"
 INCLUDE "data/pokemon/base_stats/deoxys.asm"
+.IndirectEnd::

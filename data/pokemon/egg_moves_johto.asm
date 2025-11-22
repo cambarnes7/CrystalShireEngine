@@ -101,6 +101,9 @@ EggMovePointers2::
 	dw NoEggMoves2
 	dw NoEggMoves2
 	dw NoEggMoves2
+.IndirectEnd::
+
+EggMovePointers3::
 ; Generation 3 Pokemon (Hoenn)
 	dw TreeckoEggMoves ; TREECKO
 	dw NoEggMoves2 ; GROVYLE
