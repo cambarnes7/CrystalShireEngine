@@ -261,6 +261,7 @@ PokemonCries::
 
 SECTION "Cries Gen3", ROMX
 
+PokemonCriesGen3:
 ; Generation 3 Pokemon cries
 	table_width MON_CRY_LENGTH
 	mon_cry CRY_BULBASAUR,     0,  128 ; TREECKO
