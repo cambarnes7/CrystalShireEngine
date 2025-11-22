@@ -4,11 +4,11 @@
 	evs  0,   0,   0,   0,   1,   0
 	;   hp  atk  def  spd  sat  sdf
 
-	db DRAGON, PSYCHIC ; type
+	db DRAGON, PSYCHIC_TYPE ; type
 	db 3 ; catch rate
 	db 211 ; base exp
 	dw NO_ITEM, NO_ITEM ; items
-	db GENDER_M100 ; gender ratio
+	db GENDER_F0 ; gender ratio
 	db 20 ; step cycles to hatch
 	INCBIN "gfx/pokemon/bulbasaur/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)

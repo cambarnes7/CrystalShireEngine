@@ -199,4 +199,6 @@
 	const EFFECT_NATURE_POWER       ; varies by terrain
 	const EFFECT_CHARGE             ; boosts next electric move
 	const EFFECT_CAMOUFLAGE         ; changes type by terrain
+	const EFFECT_FACADE             ; double power if burned/poisoned/paralyzed
+	const EFFECT_ENDEAVOR           ; reduce HP to user's HP
 DEF NUM_MOVE_EFFECTS EQU const_value
