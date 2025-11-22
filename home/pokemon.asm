@@ -150,10 +150,32 @@ LoadCry::
 
 	ldh a, [hROMBank]
 	push af
+
+; Check if this is a Gen 3 Pokemon (index >= 251)
+	ld a, b
+	and a
+	jr nz, .gen3  ; high byte non-zero means >= 256
+	ld a, c
+	cp 251
+	jr nc, .gen3
+
+; Gen 1/2 Pokemon
 	ld a, BANK(PokemonCries)
 	rst Bankswitch
-
 	ld hl, PokemonCries
+	jr .load_cry
+
+.gen3
+; Gen 3 Pokemon - subtract 251 to get offset into Gen3 table
+	ld hl, -251
+	add hl, bc
+	ld b, h
+	ld c, l
+	ld a, BANK(PokemonCriesGen3)
+	rst Bankswitch
+	ld hl, PokemonCriesGen3
+
+.load_cry
 rept MON_CRY_LENGTH
 	add hl, bc
 endr
@@ -178,10 +200,11 @@ endr
 	ret
 
 GetCryIndex::
+; Input: a = Pokemon ID (8-bit)
+; Output: bc = cry index (0-based), carry clear on success
+;         carry set if invalid ID
 	and a
 	jr z, .no
-	cp MON_TABLE_ENTRIES + 1
-	jr nc, .no
 
 	push hl
 	call GetPokemonIndexFromID
