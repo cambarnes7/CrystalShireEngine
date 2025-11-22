@@ -535,276 +535,276 @@ INCBIN "gfx/pokemon/ho_oh/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/ho_oh/shiny.pal"
 INCBIN "gfx/pokemon/celebi/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/celebi/shiny.pal"
-; Generation 3 Pokemon (using Bulbasaur palette as placeholder)
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; TREECKO
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; GROVYLE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SCEPTILE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; TORCHIC
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; COMBUSKEN
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; BLAZIKEN
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MUDKIP
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MARSHTOMP
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SWAMPERT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; POOCHYENA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MIGHTYENA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ZIGZAGOON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LINOONE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; WURMPLE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SILCOON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; BEAUTIFLY
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CASCOON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; DUSTOX
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LOTAD
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LOMBRE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LUDICOLO
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SEEDOT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; NUZLEAF
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SHIFTRY
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; TAILLOW
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SWELLOW
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; WINGULL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; PELIPPER
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; RALTS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; KIRLIA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; GARDEVOIR
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SURSKIT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MASQUERAIN
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SHROOMISH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; BRELOOM
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SLAKOTH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; VIGOROTH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SLAKING
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; NINCADA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; NINJASK
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SHEDINJA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; WHISMUR
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LOUDRED
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; EXPLOUD
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MAKUHITA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; HARIYAMA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; AZURILL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; NOSEPASS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SKITTY
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; DELCATTY
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SABLEYE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MAWILE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ARON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LAIRON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; AGGRON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MEDITITE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MEDICHAM
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ELECTRIKE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MANECTRIC
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; PLUSLE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MINUN
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; VOLBEAT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ILLUMISE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ROSELIA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; GULPIN
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SWALOT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CARVANHA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SHARPEDO
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; WAILMER
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; WAILORD
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; NUMEL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CAMERUPT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; TORKOAL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SPOINK
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; GRUMPIG
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SPINDA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; TRAPINCH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; VIBRAVA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; FLYGON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CACNEA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CACTURNE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SWABLU
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ALTARIA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ZANGOOSE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SEVIPER
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LUNATONE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SOLROCK
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; BARBOACH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; WHISCASH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CORPHISH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CRAWDAUNT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; BALTOY
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CLAYDOL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LILEEP
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CRADILY
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ANORITH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ARMALDO
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; FEEBAS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; MILOTIC
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CASTFORM
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; KECLEON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SHUPPET
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; BANETTE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; DUSKULL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; DUSCLOPS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; TROPIUS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CHIMECHO
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; ABSOL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; WYNAUT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SNORUNT
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; GLALIE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SPHEAL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SEALEO
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; WALREIN
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; CLAMPERL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; HUNTAIL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; GOREBYSS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; RELICANTH
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LUVDISC
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; BAGON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SHELGON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; SALAMENCE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; BELDUM
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; METANG
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; METAGROSS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; REGIROCK
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; REGICE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; REGISTEEL
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LATIAS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; LATIOS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; KYOGRE
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; GROUDON
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; RAYQUAZA
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; JIRACHI
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
-INCBIN "gfx/pokemon/bulbasaur/normal.gbcpal", middle_colors ; DEOXYS
-INCLUDE "gfx/pokemon/bulbasaur/shiny.pal"
+; Generation 3 Pokemon
+INCBIN "gfx/pokemon/treecko/normal.gbcpal", middle_colors ; TREECKO
+INCLUDE "gfx/pokemon/treecko/shiny.pal"
+INCBIN "gfx/pokemon/grovyle/normal.gbcpal", middle_colors ; GROVYLE
+INCLUDE "gfx/pokemon/grovyle/shiny.pal"
+INCBIN "gfx/pokemon/sceptile/normal.gbcpal", middle_colors ; SCEPTILE
+INCLUDE "gfx/pokemon/sceptile/shiny.pal"
+INCBIN "gfx/pokemon/torchic/normal.gbcpal", middle_colors ; TORCHIC
+INCLUDE "gfx/pokemon/torchic/shiny.pal"
+INCBIN "gfx/pokemon/combusken/normal.gbcpal", middle_colors ; COMBUSKEN
+INCLUDE "gfx/pokemon/combusken/shiny.pal"
+INCBIN "gfx/pokemon/blaziken/normal.gbcpal", middle_colors ; BLAZIKEN
+INCLUDE "gfx/pokemon/blaziken/shiny.pal"
+INCBIN "gfx/pokemon/mudkip/normal.gbcpal", middle_colors ; MUDKIP
+INCLUDE "gfx/pokemon/mudkip/shiny.pal"
+INCBIN "gfx/pokemon/marshtomp/normal.gbcpal", middle_colors ; MARSHTOMP
+INCLUDE "gfx/pokemon/marshtomp/shiny.pal"
+INCBIN "gfx/pokemon/swampert/normal.gbcpal", middle_colors ; SWAMPERT
+INCLUDE "gfx/pokemon/swampert/shiny.pal"
+INCBIN "gfx/pokemon/poochyena/normal.gbcpal", middle_colors ; POOCHYENA
+INCLUDE "gfx/pokemon/poochyena/shiny.pal"
+INCBIN "gfx/pokemon/mightyena/normal.gbcpal", middle_colors ; MIGHTYENA
+INCLUDE "gfx/pokemon/mightyena/shiny.pal"
+INCBIN "gfx/pokemon/zigzagoon/normal.gbcpal", middle_colors ; ZIGZAGOON
+INCLUDE "gfx/pokemon/zigzagoon/shiny.pal"
+INCBIN "gfx/pokemon/linoone/normal.gbcpal", middle_colors ; LINOONE
+INCLUDE "gfx/pokemon/linoone/shiny.pal"
+INCBIN "gfx/pokemon/wurmple/normal.gbcpal", middle_colors ; WURMPLE
+INCLUDE "gfx/pokemon/wurmple/shiny.pal"
+INCBIN "gfx/pokemon/silcoon/normal.gbcpal", middle_colors ; SILCOON
+INCLUDE "gfx/pokemon/silcoon/shiny.pal"
+INCBIN "gfx/pokemon/beautifly/normal.gbcpal", middle_colors ; BEAUTIFLY
+INCLUDE "gfx/pokemon/beautifly/shiny.pal"
+INCBIN "gfx/pokemon/cascoon/normal.gbcpal", middle_colors ; CASCOON
+INCLUDE "gfx/pokemon/cascoon/shiny.pal"
+INCBIN "gfx/pokemon/dustox/normal.gbcpal", middle_colors ; DUSTOX
+INCLUDE "gfx/pokemon/dustox/shiny.pal"
+INCBIN "gfx/pokemon/lotad/normal.gbcpal", middle_colors ; LOTAD
+INCLUDE "gfx/pokemon/lotad/shiny.pal"
+INCBIN "gfx/pokemon/lombre/normal.gbcpal", middle_colors ; LOMBRE
+INCLUDE "gfx/pokemon/lombre/shiny.pal"
+INCBIN "gfx/pokemon/ludicolo/normal.gbcpal", middle_colors ; LUDICOLO
+INCLUDE "gfx/pokemon/ludicolo/shiny.pal"
+INCBIN "gfx/pokemon/seedot/normal.gbcpal", middle_colors ; SEEDOT
+INCLUDE "gfx/pokemon/seedot/shiny.pal"
+INCBIN "gfx/pokemon/nuzleaf/normal.gbcpal", middle_colors ; NUZLEAF
+INCLUDE "gfx/pokemon/nuzleaf/shiny.pal"
+INCBIN "gfx/pokemon/shiftry/normal.gbcpal", middle_colors ; SHIFTRY
+INCLUDE "gfx/pokemon/shiftry/shiny.pal"
+INCBIN "gfx/pokemon/taillow/normal.gbcpal", middle_colors ; TAILLOW
+INCLUDE "gfx/pokemon/taillow/shiny.pal"
+INCBIN "gfx/pokemon/swellow/normal.gbcpal", middle_colors ; SWELLOW
+INCLUDE "gfx/pokemon/swellow/shiny.pal"
+INCBIN "gfx/pokemon/wingull/normal.gbcpal", middle_colors ; WINGULL
+INCLUDE "gfx/pokemon/wingull/shiny.pal"
+INCBIN "gfx/pokemon/pelipper/normal.gbcpal", middle_colors ; PELIPPER
+INCLUDE "gfx/pokemon/pelipper/shiny.pal"
+INCBIN "gfx/pokemon/ralts/normal.gbcpal", middle_colors ; RALTS
+INCLUDE "gfx/pokemon/ralts/shiny.pal"
+INCBIN "gfx/pokemon/kirlia/normal.gbcpal", middle_colors ; KIRLIA
+INCLUDE "gfx/pokemon/kirlia/shiny.pal"
+INCBIN "gfx/pokemon/gardevoir/normal.gbcpal", middle_colors ; GARDEVOIR
+INCLUDE "gfx/pokemon/gardevoir/shiny.pal"
+INCBIN "gfx/pokemon/surskit/normal.gbcpal", middle_colors ; SURSKIT
+INCLUDE "gfx/pokemon/surskit/shiny.pal"
+INCBIN "gfx/pokemon/masquerain/normal.gbcpal", middle_colors ; MASQUERAIN
+INCLUDE "gfx/pokemon/masquerain/shiny.pal"
+INCBIN "gfx/pokemon/shroomish/normal.gbcpal", middle_colors ; SHROOMISH
+INCLUDE "gfx/pokemon/shroomish/shiny.pal"
+INCBIN "gfx/pokemon/breloom/normal.gbcpal", middle_colors ; BRELOOM
+INCLUDE "gfx/pokemon/breloom/shiny.pal"
+INCBIN "gfx/pokemon/slakoth/normal.gbcpal", middle_colors ; SLAKOTH
+INCLUDE "gfx/pokemon/slakoth/shiny.pal"
+INCBIN "gfx/pokemon/vigoroth/normal.gbcpal", middle_colors ; VIGOROTH
+INCLUDE "gfx/pokemon/vigoroth/shiny.pal"
+INCBIN "gfx/pokemon/slaking/normal.gbcpal", middle_colors ; SLAKING
+INCLUDE "gfx/pokemon/slaking/shiny.pal"
+INCBIN "gfx/pokemon/nincada/normal.gbcpal", middle_colors ; NINCADA
+INCLUDE "gfx/pokemon/nincada/shiny.pal"
+INCBIN "gfx/pokemon/ninjask/normal.gbcpal", middle_colors ; NINJASK
+INCLUDE "gfx/pokemon/ninjask/shiny.pal"
+INCBIN "gfx/pokemon/shedinja/normal.gbcpal", middle_colors ; SHEDINJA
+INCLUDE "gfx/pokemon/shedinja/shiny.pal"
+INCBIN "gfx/pokemon/whismur/normal.gbcpal", middle_colors ; WHISMUR
+INCLUDE "gfx/pokemon/whismur/shiny.pal"
+INCBIN "gfx/pokemon/loudred/normal.gbcpal", middle_colors ; LOUDRED
+INCLUDE "gfx/pokemon/loudred/shiny.pal"
+INCBIN "gfx/pokemon/exploud/normal.gbcpal", middle_colors ; EXPLOUD
+INCLUDE "gfx/pokemon/exploud/shiny.pal"
+INCBIN "gfx/pokemon/makuhita/normal.gbcpal", middle_colors ; MAKUHITA
+INCLUDE "gfx/pokemon/makuhita/shiny.pal"
+INCBIN "gfx/pokemon/hariyama/normal.gbcpal", middle_colors ; HARIYAMA
+INCLUDE "gfx/pokemon/hariyama/shiny.pal"
+INCBIN "gfx/pokemon/azurill/normal.gbcpal", middle_colors ; AZURILL
+INCLUDE "gfx/pokemon/azurill/shiny.pal"
+INCBIN "gfx/pokemon/nosepass/normal.gbcpal", middle_colors ; NOSEPASS
+INCLUDE "gfx/pokemon/nosepass/shiny.pal"
+INCBIN "gfx/pokemon/skitty/normal.gbcpal", middle_colors ; SKITTY
+INCLUDE "gfx/pokemon/skitty/shiny.pal"
+INCBIN "gfx/pokemon/delcatty/normal.gbcpal", middle_colors ; DELCATTY
+INCLUDE "gfx/pokemon/delcatty/shiny.pal"
+INCBIN "gfx/pokemon/sableye/normal.gbcpal", middle_colors ; SABLEYE
+INCLUDE "gfx/pokemon/sableye/shiny.pal"
+INCBIN "gfx/pokemon/mawile/normal.gbcpal", middle_colors ; MAWILE
+INCLUDE "gfx/pokemon/mawile/shiny.pal"
+INCBIN "gfx/pokemon/aron/normal.gbcpal", middle_colors ; ARON
+INCLUDE "gfx/pokemon/aron/shiny.pal"
+INCBIN "gfx/pokemon/lairon/normal.gbcpal", middle_colors ; LAIRON
+INCLUDE "gfx/pokemon/lairon/shiny.pal"
+INCBIN "gfx/pokemon/aggron/normal.gbcpal", middle_colors ; AGGRON
+INCLUDE "gfx/pokemon/aggron/shiny.pal"
+INCBIN "gfx/pokemon/meditite/normal.gbcpal", middle_colors ; MEDITITE
+INCLUDE "gfx/pokemon/meditite/shiny.pal"
+INCBIN "gfx/pokemon/medicham/normal.gbcpal", middle_colors ; MEDICHAM
+INCLUDE "gfx/pokemon/medicham/shiny.pal"
+INCBIN "gfx/pokemon/electrike/normal.gbcpal", middle_colors ; ELECTRIKE
+INCLUDE "gfx/pokemon/electrike/shiny.pal"
+INCBIN "gfx/pokemon/manectric/normal.gbcpal", middle_colors ; MANECTRIC
+INCLUDE "gfx/pokemon/manectric/shiny.pal"
+INCBIN "gfx/pokemon/plusle/normal.gbcpal", middle_colors ; PLUSLE
+INCLUDE "gfx/pokemon/plusle/shiny.pal"
+INCBIN "gfx/pokemon/minun/normal.gbcpal", middle_colors ; MINUN
+INCLUDE "gfx/pokemon/minun/shiny.pal"
+INCBIN "gfx/pokemon/volbeat/normal.gbcpal", middle_colors ; VOLBEAT
+INCLUDE "gfx/pokemon/volbeat/shiny.pal"
+INCBIN "gfx/pokemon/illumise/normal.gbcpal", middle_colors ; ILLUMISE
+INCLUDE "gfx/pokemon/illumise/shiny.pal"
+INCBIN "gfx/pokemon/roselia/normal.gbcpal", middle_colors ; ROSELIA
+INCLUDE "gfx/pokemon/roselia/shiny.pal"
+INCBIN "gfx/pokemon/gulpin/normal.gbcpal", middle_colors ; GULPIN
+INCLUDE "gfx/pokemon/gulpin/shiny.pal"
+INCBIN "gfx/pokemon/swalot/normal.gbcpal", middle_colors ; SWALOT
+INCLUDE "gfx/pokemon/swalot/shiny.pal"
+INCBIN "gfx/pokemon/carvanha/normal.gbcpal", middle_colors ; CARVANHA
+INCLUDE "gfx/pokemon/carvanha/shiny.pal"
+INCBIN "gfx/pokemon/sharpedo/normal.gbcpal", middle_colors ; SHARPEDO
+INCLUDE "gfx/pokemon/sharpedo/shiny.pal"
+INCBIN "gfx/pokemon/wailmer/normal.gbcpal", middle_colors ; WAILMER
+INCLUDE "gfx/pokemon/wailmer/shiny.pal"
+INCBIN "gfx/pokemon/wailord/normal.gbcpal", middle_colors ; WAILORD
+INCLUDE "gfx/pokemon/wailord/shiny.pal"
+INCBIN "gfx/pokemon/numel/normal.gbcpal", middle_colors ; NUMEL
+INCLUDE "gfx/pokemon/numel/shiny.pal"
+INCBIN "gfx/pokemon/camerupt/normal.gbcpal", middle_colors ; CAMERUPT
+INCLUDE "gfx/pokemon/camerupt/shiny.pal"
+INCBIN "gfx/pokemon/torkoal/normal.gbcpal", middle_colors ; TORKOAL
+INCLUDE "gfx/pokemon/torkoal/shiny.pal"
+INCBIN "gfx/pokemon/spoink/normal.gbcpal", middle_colors ; SPOINK
+INCLUDE "gfx/pokemon/spoink/shiny.pal"
+INCBIN "gfx/pokemon/grumpig/normal.gbcpal", middle_colors ; GRUMPIG
+INCLUDE "gfx/pokemon/grumpig/shiny.pal"
+INCBIN "gfx/pokemon/spinda/normal.gbcpal", middle_colors ; SPINDA
+INCLUDE "gfx/pokemon/spinda/shiny.pal"
+INCBIN "gfx/pokemon/trapinch/normal.gbcpal", middle_colors ; TRAPINCH
+INCLUDE "gfx/pokemon/trapinch/shiny.pal"
+INCBIN "gfx/pokemon/vibrava/normal.gbcpal", middle_colors ; VIBRAVA
+INCLUDE "gfx/pokemon/vibrava/shiny.pal"
+INCBIN "gfx/pokemon/flygon/normal.gbcpal", middle_colors ; FLYGON
+INCLUDE "gfx/pokemon/flygon/shiny.pal"
+INCBIN "gfx/pokemon/cacnea/normal.gbcpal", middle_colors ; CACNEA
+INCLUDE "gfx/pokemon/cacnea/shiny.pal"
+INCBIN "gfx/pokemon/cacturne/normal.gbcpal", middle_colors ; CACTURNE
+INCLUDE "gfx/pokemon/cacturne/shiny.pal"
+INCBIN "gfx/pokemon/swablu/normal.gbcpal", middle_colors ; SWABLU
+INCLUDE "gfx/pokemon/swablu/shiny.pal"
+INCBIN "gfx/pokemon/altaria/normal.gbcpal", middle_colors ; ALTARIA
+INCLUDE "gfx/pokemon/altaria/shiny.pal"
+INCBIN "gfx/pokemon/zangoose/normal.gbcpal", middle_colors ; ZANGOOSE
+INCLUDE "gfx/pokemon/zangoose/shiny.pal"
+INCBIN "gfx/pokemon/seviper/normal.gbcpal", middle_colors ; SEVIPER
+INCLUDE "gfx/pokemon/seviper/shiny.pal"
+INCBIN "gfx/pokemon/lunatone/normal.gbcpal", middle_colors ; LUNATONE
+INCLUDE "gfx/pokemon/lunatone/shiny.pal"
+INCBIN "gfx/pokemon/solrock/normal.gbcpal", middle_colors ; SOLROCK
+INCLUDE "gfx/pokemon/solrock/shiny.pal"
+INCBIN "gfx/pokemon/barboach/normal.gbcpal", middle_colors ; BARBOACH
+INCLUDE "gfx/pokemon/barboach/shiny.pal"
+INCBIN "gfx/pokemon/whiscash/normal.gbcpal", middle_colors ; WHISCASH
+INCLUDE "gfx/pokemon/whiscash/shiny.pal"
+INCBIN "gfx/pokemon/corphish/normal.gbcpal", middle_colors ; CORPHISH
+INCLUDE "gfx/pokemon/corphish/shiny.pal"
+INCBIN "gfx/pokemon/crawdaunt/normal.gbcpal", middle_colors ; CRAWDAUNT
+INCLUDE "gfx/pokemon/crawdaunt/shiny.pal"
+INCBIN "gfx/pokemon/baltoy/normal.gbcpal", middle_colors ; BALTOY
+INCLUDE "gfx/pokemon/baltoy/shiny.pal"
+INCBIN "gfx/pokemon/claydol/normal.gbcpal", middle_colors ; CLAYDOL
+INCLUDE "gfx/pokemon/claydol/shiny.pal"
+INCBIN "gfx/pokemon/lileep/normal.gbcpal", middle_colors ; LILEEP
+INCLUDE "gfx/pokemon/lileep/shiny.pal"
+INCBIN "gfx/pokemon/cradily/normal.gbcpal", middle_colors ; CRADILY
+INCLUDE "gfx/pokemon/cradily/shiny.pal"
+INCBIN "gfx/pokemon/anorith/normal.gbcpal", middle_colors ; ANORITH
+INCLUDE "gfx/pokemon/anorith/shiny.pal"
+INCBIN "gfx/pokemon/armaldo/normal.gbcpal", middle_colors ; ARMALDO
+INCLUDE "gfx/pokemon/armaldo/shiny.pal"
+INCBIN "gfx/pokemon/feebas/normal.gbcpal", middle_colors ; FEEBAS
+INCLUDE "gfx/pokemon/feebas/shiny.pal"
+INCBIN "gfx/pokemon/milotic/normal.gbcpal", middle_colors ; MILOTIC
+INCLUDE "gfx/pokemon/milotic/shiny.pal"
+INCBIN "gfx/pokemon/castform/normal.gbcpal", middle_colors ; CASTFORM
+INCLUDE "gfx/pokemon/castform/shiny.pal"
+INCBIN "gfx/pokemon/kecleon/normal.gbcpal", middle_colors ; KECLEON
+INCLUDE "gfx/pokemon/kecleon/shiny.pal"
+INCBIN "gfx/pokemon/shuppet/normal.gbcpal", middle_colors ; SHUPPET
+INCLUDE "gfx/pokemon/shuppet/shiny.pal"
+INCBIN "gfx/pokemon/banette/normal.gbcpal", middle_colors ; BANETTE
+INCLUDE "gfx/pokemon/banette/shiny.pal"
+INCBIN "gfx/pokemon/duskull/normal.gbcpal", middle_colors ; DUSKULL
+INCLUDE "gfx/pokemon/duskull/shiny.pal"
+INCBIN "gfx/pokemon/dusclops/normal.gbcpal", middle_colors ; DUSCLOPS
+INCLUDE "gfx/pokemon/dusclops/shiny.pal"
+INCBIN "gfx/pokemon/tropius/normal.gbcpal", middle_colors ; TROPIUS
+INCLUDE "gfx/pokemon/tropius/shiny.pal"
+INCBIN "gfx/pokemon/chimecho/normal.gbcpal", middle_colors ; CHIMECHO
+INCLUDE "gfx/pokemon/chimecho/shiny.pal"
+INCBIN "gfx/pokemon/absol/normal.gbcpal", middle_colors ; ABSOL
+INCLUDE "gfx/pokemon/absol/shiny.pal"
+INCBIN "gfx/pokemon/wynaut/normal.gbcpal", middle_colors ; WYNAUT
+INCLUDE "gfx/pokemon/wynaut/shiny.pal"
+INCBIN "gfx/pokemon/snorunt/normal.gbcpal", middle_colors ; SNORUNT
+INCLUDE "gfx/pokemon/snorunt/shiny.pal"
+INCBIN "gfx/pokemon/glalie/normal.gbcpal", middle_colors ; GLALIE
+INCLUDE "gfx/pokemon/glalie/shiny.pal"
+INCBIN "gfx/pokemon/spheal/normal.gbcpal", middle_colors ; SPHEAL
+INCLUDE "gfx/pokemon/spheal/shiny.pal"
+INCBIN "gfx/pokemon/sealeo/normal.gbcpal", middle_colors ; SEALEO
+INCLUDE "gfx/pokemon/sealeo/shiny.pal"
+INCBIN "gfx/pokemon/walrein/normal.gbcpal", middle_colors ; WALREIN
+INCLUDE "gfx/pokemon/walrein/shiny.pal"
+INCBIN "gfx/pokemon/clamperl/normal.gbcpal", middle_colors ; CLAMPERL
+INCLUDE "gfx/pokemon/clamperl/shiny.pal"
+INCBIN "gfx/pokemon/huntail/normal.gbcpal", middle_colors ; HUNTAIL
+INCLUDE "gfx/pokemon/huntail/shiny.pal"
+INCBIN "gfx/pokemon/gorebyss/normal.gbcpal", middle_colors ; GOREBYSS
+INCLUDE "gfx/pokemon/gorebyss/shiny.pal"
+INCBIN "gfx/pokemon/relicanth/normal.gbcpal", middle_colors ; RELICANTH
+INCLUDE "gfx/pokemon/relicanth/shiny.pal"
+INCBIN "gfx/pokemon/luvdisc/normal.gbcpal", middle_colors ; LUVDISC
+INCLUDE "gfx/pokemon/luvdisc/shiny.pal"
+INCBIN "gfx/pokemon/bagon/normal.gbcpal", middle_colors ; BAGON
+INCLUDE "gfx/pokemon/bagon/shiny.pal"
+INCBIN "gfx/pokemon/shelgon/normal.gbcpal", middle_colors ; SHELGON
+INCLUDE "gfx/pokemon/shelgon/shiny.pal"
+INCBIN "gfx/pokemon/salamence/normal.gbcpal", middle_colors ; SALAMENCE
+INCLUDE "gfx/pokemon/salamence/shiny.pal"
+INCBIN "gfx/pokemon/beldum/normal.gbcpal", middle_colors ; BELDUM
+INCLUDE "gfx/pokemon/beldum/shiny.pal"
+INCBIN "gfx/pokemon/metang/normal.gbcpal", middle_colors ; METANG
+INCLUDE "gfx/pokemon/metang/shiny.pal"
+INCBIN "gfx/pokemon/metagross/normal.gbcpal", middle_colors ; METAGROSS
+INCLUDE "gfx/pokemon/metagross/shiny.pal"
+INCBIN "gfx/pokemon/regirock/normal.gbcpal", middle_colors ; REGIROCK
+INCLUDE "gfx/pokemon/regirock/shiny.pal"
+INCBIN "gfx/pokemon/regice/normal.gbcpal", middle_colors ; REGICE
+INCLUDE "gfx/pokemon/regice/shiny.pal"
+INCBIN "gfx/pokemon/registeel/normal.gbcpal", middle_colors ; REGISTEEL
+INCLUDE "gfx/pokemon/registeel/shiny.pal"
+INCBIN "gfx/pokemon/latias/normal.gbcpal", middle_colors ; LATIAS
+INCLUDE "gfx/pokemon/latias/shiny.pal"
+INCBIN "gfx/pokemon/latios/normal.gbcpal", middle_colors ; LATIOS
+INCLUDE "gfx/pokemon/latios/shiny.pal"
+INCBIN "gfx/pokemon/kyogre/normal.gbcpal", middle_colors ; KYOGRE
+INCLUDE "gfx/pokemon/kyogre/shiny.pal"
+INCBIN "gfx/pokemon/groudon/normal.gbcpal", middle_colors ; GROUDON
+INCLUDE "gfx/pokemon/groudon/shiny.pal"
+INCBIN "gfx/pokemon/rayquaza/normal.gbcpal", middle_colors ; RAYQUAZA
+INCLUDE "gfx/pokemon/rayquaza/shiny.pal"
+INCBIN "gfx/pokemon/jirachi/normal.gbcpal", middle_colors ; JIRACHI
+INCLUDE "gfx/pokemon/jirachi/shiny.pal"
+INCBIN "gfx/pokemon/deoxys/normal.gbcpal", middle_colors ; DEOXYS
+INCLUDE "gfx/pokemon/deoxys/shiny.pal"
 
 	assert_table_length NUM_POKEMON + 1 ; +1 for the 000 placeholder entry

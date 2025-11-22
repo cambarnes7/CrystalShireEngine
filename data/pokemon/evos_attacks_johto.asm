@@ -2719,7 +2719,7 @@ RayquazaEvosAttacks:
 
 JirachiEvosAttacks:
 	db 0 ; no more evolutions
-	dbw 1, WISH
+	dbw 1, SCRATCH
 	dbw 1, CONFUSION
 	dbw 5, REST
 	dbw 10, SWIFT

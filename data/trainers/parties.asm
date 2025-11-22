@@ -135,7 +135,7 @@ ClairGroup:
 	end_list_items
 
 Rival1Group:
-	next_list_item ; RIVAL1 (1) - Rival uses this when player picked Registeel
+	next_list_item ; RIVAL1 (1) - Rival uses this when player picked Absol
 	db "?@", TRAINERTYPE_NORMAL
 	db 5
 	dw JIRACHI
@@ -150,7 +150,7 @@ Rival1Group:
 	next_list_item ; RIVAL1 (3) - Rival uses this when player picked Regice
 	db "?@", TRAINERTYPE_NORMAL
 	db 5
-	dw REGISTEEL
+	dw ABSOL
 	db -1 ; end
 
 	next_list_item ; RIVAL1 (4)

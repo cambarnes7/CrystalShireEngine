@@ -193,8 +193,8 @@ TotodilePokeBallScript:
 	iftrue LookAtElmPokeBallScript
 	turnobject ELMSLAB_ELM, DOWN
 	reanchormap
-	pokepic REGISTEEL
-	cry REGISTEEL
+	pokepic ABSOL
+	cry ABSOL
 	waitbutton
 	closepokepic
 	opentext
@@ -206,12 +206,12 @@ TotodilePokeBallScript:
 	writetext ChoseStarterText
 	promptbutton
 	waitsfx
-	getmonname STRING_BUFFER_3, REGISTEEL
+	getmonname STRING_BUFFER_3, ABSOL
 	writetext ReceivedStarterText
 	playsound SFX_CAUGHT_MON
 	waitsfx
 	promptbutton
-	givepoke REGISTEEL, 5, BERRY
+	givepoke ABSOL, 5, BERRY
 	closetext
 	applymovement PLAYER, AfterTotodileMovement
 	sjump ElmDirectionsScript
@@ -867,8 +867,8 @@ TakeCyndaquilText:
 
 TakeTotodileText:
 	text "ELM: Do you want"
-	line "REGISTEEL, the"
-	cont "steel #MON?"
+	line "ABSOL, the"
+	cont "disaster #MON?"
 	done
 
 TakeChikoritaText:
