@@ -255,11 +255,13 @@ PokemonNames::
 	dname "LUGIA"
 	dname "HO-OH"
 	dname "CELEBI"
+	assert_table_length 251 ; Gen 1+2
 
 
 SECTION "Pokemon Names Gen3", ROMX
 
 ; Generation 3 Pokemon
+	table_width NAME_LENGTH - 1
 	dname "TREECKO"
 	dname "GROVYLE"
 	dname "SCEPTILE"
@@ -395,4 +397,4 @@ SECTION "Pokemon Names Gen3", ROMX
 	dname "RAYQUAZA"
 	dname "JIRACHI"
 	dname "DEOXYS"
-	assert_table_length NUM_POKEMON
+	assert_table_length NUM_POKEMON - 251 ; Gen 3 only
