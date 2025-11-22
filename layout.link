@@ -37,6 +37,7 @@ ROMX $01
 ROMX $02
 	"bank2"
 	"Tileset Data 9"
+	"Tileset Data 9b"
 ROMX $03
 	"bank3"
 	"VWF"
@@ -185,6 +186,7 @@ ROMX $3c
 	"Songs 3"
 	"Sound Effects"
 	"Cries"
+	"Cries Gen3"
 ROMX $3d
 	"Songs 4"
 ROMX $3e
@@ -214,6 +216,7 @@ ROMX $47
 ROMX $48
 	"Pic Pointers"
 	"Pics 1"
+	"Pics 1b"
 ROMX $49
 	"Unown Pic Pointers"
 	"Pics 2"
@@ -313,6 +316,7 @@ ROMX $75
 ROMX $76
 	"Pokemon Base Stats"
 	"Pokemon Names"
+	"Pokemon Names Gen3"
 ROMX $77
 	"Unown Font"
 	"Print Party"

@@ -255,6 +255,10 @@ PokemonNames::
 	dname "LUGIA"
 	dname "HO-OH"
 	dname "CELEBI"
+
+
+SECTION "Pokemon Names Gen3", ROMX
+
 ; Generation 3 Pokemon
 	dname "TREECKO"
 	dname "GROVYLE"
