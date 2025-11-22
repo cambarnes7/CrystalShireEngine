@@ -36,12 +36,10 @@ ROMX $01
 	"Tileset Data 10"
 ROMX $02
 	"bank2"
-	"Tileset Data 9"
 ROMX $03
 	"bank3"
 	"VWF"
 	"mobile5C"
-	"Tileset Data 9b"
 ROMX $04
 	"bank4"
 	"Tileset Data 11"
@@ -124,12 +122,15 @@ ROMX $20
 	"Enemy Trainer Parties 2"
 ROMX $21
 	"bank21"
+	"Cries Gen3"
 ROMX $22
 	"Crystal Features 2"
 ROMX $23
 	"bank23"
+	"Pics 1b"
 ROMX $24
 	"bank24"
+	"Pokemon Names Gen3"
 ROMX $25
 	"Map Headers"
 	"Events"
@@ -188,11 +189,12 @@ ROMX $3c
 	"Cries"
 ROMX $3d
 	"Songs 4"
-	"Cries Gen3"
 ROMX $3e
 	"bank3E"
+	"Tileset Data 9"
 ROMX $3f
 	"bank3F"
+	"Tileset Data 9b"
 ROMX $40
 	"Dynamic Pals System"
 	"Fade System"
@@ -219,7 +221,6 @@ ROMX $48
 ROMX $49
 	"Unown Pic Pointers"
 	"Pics 2"
-	"Pics 1b"
 ROMX $4a
 	"Trainer Pic Pointers"
 	"Pics 3"
@@ -318,7 +319,6 @@ ROMX $76
 	"Pokemon Names"
 ROMX $77
 	"Unown Font"
-	"Pokemon Names Gen3"
 	"Print Party"
 	"Tileset Data 7"
 	"bank77"
