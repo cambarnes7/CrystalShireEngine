@@ -183,6 +183,26 @@ gfx/trainers/kris.2bpp: gfx/trainers/kris.png gfx/trainers/kris.gbcpal
 gfx/pokemon/egg/front.2bpp: gfx/pokemon/egg/front.png gfx/pokemon/egg/front.gbcpal
 gfx/pokemon/egg/front.2bpp: RGBGFXFLAGS += --colors gbc:$(word 2,$^)
 
+# Gen 3 Pokemon need explicit dependency declaration for Make to chain pattern rules
+gen3_pokemon := treecko grovyle sceptile torchic combusken blaziken mudkip marshtomp swampert \
+	poochyena mightyena zigzagoon linoone wurmple silcoon beautifly cascoon dustox lotad \
+	lombre ludicolo seedot nuzleaf shiftry taillow swellow wingull pelipper ralts kirlia \
+	gardevoir surskit masquerain shroomish breloom slakoth vigoroth slaking nincada ninjask \
+	shedinja whismur loudred exploud makuhita hariyama azurill nosepass skitty delcatty \
+	sableye mawile aron lairon aggron meditite medicham electrike manectric plusle minun \
+	volbeat illumise roselia gulpin swalot carvanha sharpedo wailmer wailord numel camerupt \
+	torkoal spoink grumpig spinda trapinch vibrava flygon cacnea cacturne swablu altaria \
+	zangoose seviper lunatone solrock barboach whiscash corphish crawdaunt baltoy claydol \
+	lileep cradily anorith armaldo feebas milotic castform kecleon shuppet banette duskull \
+	dusclops tropius chimecho absol wynaut snorunt glalie spheal sealeo walrein clamperl \
+	huntail gorebyss relicanth luvdisc bagon shelgon salamence beldum metang metagross \
+	regirock regice registeel latias latios kyogre groudon rayquaza jirachi deoxys
+
+# Force Make to recognize the pattern rule chain for Gen 3 Pokemon
+$(foreach pokemon,$(gen3_pokemon),\
+	$(eval gfx/pokemon/$(pokemon)/front.2bpp: gfx/pokemon/$(pokemon)/front.png gfx/pokemon/$(pokemon)/normal.gbcpal)\
+	$(eval gfx/pokemon/$(pokemon)/back.2bpp: gfx/pokemon/$(pokemon)/back.png gfx/pokemon/$(pokemon)/normal.gbcpal))
+
 # Unown letters share one normal.gbcpal
 unown_pngs := $(wildcard gfx/pokemon/unown_*/front.png) $(wildcard gfx/pokemon/unown_*/back.png)
 $(foreach png, $(unown_pngs),\
