@@ -157,4 +157,46 @@
 	const EFFECT_BEAT_UP
 	const EFFECT_FLY
 	const EFFECT_DEFENSE_CURL
+; Generation 3 effects
+	const EFFECT_HAIL               ; weather: hail
+	const EFFECT_DIVE               ; two-turn move like Fly
+	const EFFECT_BOUNCE             ; two-turn move with paralysis chance
+	const EFFECT_BRICK_BREAK        ; breaks Light Screen/Reflect
+	const EFFECT_BULK_UP            ; raises Attack and Defense
+	const EFFECT_CALM_MIND          ; raises Sp.Atk and Sp.Def
+	const EFFECT_DRAGON_DANCE       ; raises Attack and Speed
+	const EFFECT_IRON_DEFENSE_EFF   ; raises Defense by 2
+	const EFFECT_FOCUS_PUNCH        ; fails if user is hit
+	const EFFECT_WISH               ; heals on next turn
+	const EFFECT_YAWN               ; target sleeps next turn
+	const EFFECT_ERUPTION           ; power based on user HP
+	const EFFECT_INGRAIN            ; heals each turn, can't switch
+	const EFFECT_KNOCK_OFF          ; removes held item
+	const EFFECT_MEMENTO            ; user faints, lowers stats
+	const EFFECT_OVERHEAT           ; lowers user Sp.Atk sharply
+	const EFFECT_SUPERPOWER         ; lowers user Attack and Defense
+	const EFFECT_TAUNT              ; opponent can only use attacks
+	const EFFECT_TORMENT            ; opponent can't use same move twice
+	const EFFECT_UPROAR             ; attacks 3 turns, prevents sleep
+	const EFFECT_REVENGE            ; double power if hit first
+	const EFFECT_SMELLING_SALTS     ; double power vs paralyzed
+	const EFFECT_STOCKPILE          ; stockpile for spit up/swallow
+	const EFFECT_SPIT_UP            ; power from stockpile
+	const EFFECT_SWALLOW            ; heal from stockpile
+	const EFFECT_REFRESH            ; cures burn/poison/paralysis
+	const EFFECT_RECYCLE            ; restores used held item
+	const EFFECT_ASSIST             ; uses ally's move
+	const EFFECT_SNATCH             ; steals status moves
+	const EFFECT_GRUDGE             ; PP drain on KO
+	const EFFECT_IMPRISON           ; opponent can't use shared moves
+	const EFFECT_MAGIC_COAT         ; reflects status moves
+	const EFFECT_SKILL_SWAP         ; swap abilities
+	const EFFECT_ROLE_PLAY          ; copy opponent's ability
+	const EFFECT_DOOM_DESIRE        ; delayed damage
+	const EFFECT_FOLLOW_ME          ; redirects moves in doubles
+	const EFFECT_HELPING_HAND       ; boosts ally in doubles
+	const EFFECT_TRICK              ; swap held items
+	const EFFECT_NATURE_POWER       ; varies by terrain
+	const EFFECT_CHARGE             ; boosts next electric move
+	const EFFECT_CAMOUFLAGE         ; changes type by terrain
 DEF NUM_MOVE_EFFECTS EQU const_value

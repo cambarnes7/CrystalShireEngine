@@ -3,6 +3,7 @@ MoveDescriptions::
 	indirect_table 2, 1
 	indirect_entries GEN1_MOVES, MoveDescriptionsGen1
 	indirect_entries GEN2_MOVES, MoveDescriptionsGen2
+	indirect_entries GEN3_MOVES, MoveDescriptionsGen3
 	indirect_table_end
 
 MoveDescriptionsGen1:
@@ -1268,3 +1269,517 @@ WhirlpoolDescription:
 BeatUpDescription:
 	db   "Party #MON join"
 	next "in the attack.@"
+
+; Generation 3 move descriptions
+MoveDescriptionsGen3:
+	dw AerialAceDescription
+	dw AirCutterDescription
+	dw ArmThrustDescription
+	dw AromatherapyDescription
+	dw AssistDescription
+	dw AstonishDescription
+	dw BlastBurnDescription
+	dw BlazeKickDescription
+	dw BlockDescription
+	dw BounceDescription
+	dw BrickBreakDescription
+	dw BulkUpDescription
+	dw BulletSeedDescription
+	dw CalmMindDescription
+	dw CamouflageDescription
+	dw ChargeDescription
+	dw CosmicPowerDescription
+	dw CovetDescription
+	dw CrushClawDescription
+	dw DiveDescription
+	dw DoomDesireDescription
+	dw DragonClawDescription
+	dw DragonDanceDescription
+	dw EndeavorDescription
+	dw EruptionDescription
+	dw ExtrasensoryDescription
+	dw FacadeDescription
+	dw FakeTearsDescription
+	dw FeatherDanceDescription
+	dw FlatterDescription
+	dw FocusPunchDescription
+	dw FollowMeDescription
+	dw FrenzyPlantDescription
+	dw GrassWhistleDescription
+	dw GrudgeDescription
+	dw HailDescription
+	dw HeatWaveDescription
+	dw HelpingHandDescription
+	dw HowlDescription
+	dw HydroCannonDescription
+	dw HyperVoiceDescription
+	dw IceBallDescription
+	dw IcicleSpearDescription
+	dw ImprisonDescription
+	dw IngrainDescription
+	dw IronDefenseDescription
+	dw KnockOffDescription
+	dw LeafBladeDescription
+	dw LusterPurgeDescription
+	dw MagicCoatDescription
+	dw MagicalLeafDescription
+	dw MementoDescription
+	dw MetalSoundDescription
+	dw MeteorMashDescription
+	dw MistBallDescription
+	dw MudShotDescription
+	dw MudSportDescription
+	dw MuddyWaterDescription
+	dw NaturePowerDescription
+	dw NeedleArmDescription
+	dw OdorSleuthDescription
+	dw OverheatDescription
+	dw PoisonFangDescription
+	dw PoisonTailDescription
+	dw PsychoBoostDescription
+	dw RecycleDescription
+	dw RefreshDescription
+	dw RevengeDescription
+	dw RockBlastDescription
+	dw RockTombDescription
+	dw RolePlayDescription
+	dw SandTombDescription
+	dw SecretPowerDescription
+	dw ShadowPunchDescription
+	dw SheerColdDescription
+	dw ShockWaveDescription
+	dw SignalBeamDescription
+	dw SilverWindDescription
+	dw SkillSwapDescription
+	dw SkyUppercutDescription
+	dw SlackOffDescription
+	dw SmellingSaltDescription
+	dw SnatchDescription
+	dw SpitUpDescription
+	dw StockpileDescription
+	dw SuperpowerDescription
+	dw SwallowDescription
+	dw TailGlowDescription
+	dw TauntDescription
+	dw TeeterDanceDescription
+	dw TickleDescription
+	dw TormentDescription
+	dw TrickDescription
+	dw UproarDescription
+	dw VoltTackleDescription
+	dw WaterPulseDescription
+	dw WaterSportDescription
+	dw WaterSpoutDescription
+	dw WeatherBallDescription
+	dw WillOWispDescription
+	dw WishDescription
+	dw YawnDescription
+.IndirectEnd::
+
+AerialAceDescription:
+	db   "Never misses the"
+	next "target.@"
+
+AirCutterDescription:
+	db   "Slices with wind."
+	next "High critical.@"
+
+ArmThrustDescription:
+	db   "Hits the foe 2-5"
+	next "times in a row.@"
+
+AromatherapyDescription:
+	db   "Heals party of all"
+	next "status problems.@"
+
+AssistDescription:
+	db   "Uses a move known"
+	next "by a party #MON.@"
+
+AstonishDescription:
+	db   "An attack that may"
+	next "cause flinching.@"
+
+BlastBurnDescription:
+	db   "Powerful but needs"
+	next "recharging.@"
+
+BlazeKickDescription:
+	db   "High critical hit"
+	next "rate. May burn.@"
+
+BlockDescription:
+	db   "Blocks the foe's"
+	next "escape.@"
+
+BounceDescription:
+	db   "Bounces up, then"
+	next "down next turn.@"
+
+BrickBreakDescription:
+	db   "Breaks barriers"
+	next "then attacks.@"
+
+BulkUpDescription:
+	db   "Raises ATTACK and"
+	next "DEFENSE.@"
+
+BulletSeedDescription:
+	db   "Hits the foe 2-5"
+	next "times in a row.@"
+
+CalmMindDescription:
+	db   "Raises SP.ATK and"
+	next "SP.DEF.@"
+
+CamouflageDescription:
+	db   "Changes type to"
+	next "match terrain.@"
+
+ChargeDescription:
+	db   "Powers up the next"
+	next "electric move.@"
+
+CosmicPowerDescription:
+	db   "Raises DEFENSE and"
+	next "SP.DEF.@"
+
+CovetDescription:
+	db   "Steals the foe's"
+	next "held item.@"
+
+CrushClawDescription:
+	db   "An attack that may"
+	next "lower DEFENSE.@"
+
+DiveDescription:
+	db   "Dives underwater"
+	next "then attacks.@"
+
+DoomDesireDescription:
+	db   "Hits 2 turns"
+	next "later.@"
+
+DragonClawDescription:
+	db   "Slashes the foe"
+	next "with sharp claws.@"
+
+DragonDanceDescription:
+	db   "Raises ATTACK and"
+	next "SPEED.@"
+
+EndeavorDescription:
+	db   "Lowers foe's HP to"
+	next "user's HP level.@"
+
+EruptionDescription:
+	db   "Stronger if user's"
+	next "HP is high.@"
+
+ExtrasensoryDescription:
+	db   "An attack that may"
+	next "cause flinching.@"
+
+FacadeDescription:
+	db   "Stronger if user"
+	next "has a status.@"
+
+FakeTearsDescription:
+	db   "Sharply lowers the"
+	next "foe's SP.DEF.@"
+
+FeatherDanceDescription:
+	db   "Sharply lowers the"
+	next "foe's ATTACK.@"
+
+FlatterDescription:
+	db   "Confuses but raises"
+	next "foe's SP.ATK.@"
+
+FocusPunchDescription:
+	db   "Powerful but fails"
+	next "if hit first.@"
+
+FollowMeDescription:
+	db   "Draws attention to"
+	next "the user.@"
+
+FrenzyPlantDescription:
+	db   "Powerful but needs"
+	next "recharging.@"
+
+GrassWhistleDescription:
+	db   "A soothing melody"
+	next "that induces sleep.@"
+
+GrudgeDescription:
+	db   "If user faints, PP"
+	next "of foe's move is 0.@"
+
+HailDescription:
+	db   "Summons a hailstorm"
+	next "for 5 turns.@"
+
+HeatWaveDescription:
+	db   "A hot breath attack"
+	next "that may burn.@"
+
+HelpingHandDescription:
+	db   "Boosts ally's move"
+	next "power.@"
+
+HowlDescription:
+	db   "Raises the ATTACK"
+	next "of all allies.@"
+
+HydroCannonDescription:
+	db   "Powerful but needs"
+	next "recharging.@"
+
+HyperVoiceDescription:
+	db   "A loud attack using"
+	next "sound waves.@"
+
+IceBallDescription:
+	db   "Doubles in power"
+	next "with each hit.@"
+
+IcicleSpearDescription:
+	db   "Hits the foe 2-5"
+	next "times in a row.@"
+
+ImprisonDescription:
+	db   "Stops the foe from"
+	next "using shared moves.@"
+
+IngrainDescription:
+	db   "Heals each turn"
+	next "but can't switch.@"
+
+IronDefenseDescription:
+	db   "Sharply raises the"
+	next "user's DEFENSE.@"
+
+KnockOffDescription:
+	db   "Knocks off the"
+	next "foe's held item.@"
+
+LeafBladeDescription:
+	db   "Slashes with a"
+	next "leaf. High crit.@"
+
+LusterPurgeDescription:
+	db   "May lower the foe's"
+	next "SP.DEF.@"
+
+MagicCoatDescription:
+	db   "Reflects status"
+	next "moves back.@"
+
+MagicalLeafDescription:
+	db   "Never misses the"
+	next "target.@"
+
+MementoDescription:
+	db   "User faints to cut"
+	next "foe's stats.@"
+
+MetalSoundDescription:
+	db   "Sharply lowers the"
+	next "foe's SP.DEF.@"
+
+MeteorMashDescription:
+	db   "An attack that may"
+	next "raise ATTACK.@"
+
+MistBallDescription:
+	db   "May lower the foe's"
+	next "SP.ATK.@"
+
+MudShotDescription:
+	db   "An attack that"
+	next "lowers SPEED.@"
+
+MudSportDescription:
+	db   "Weakens ELECTRIC-"
+	next "type moves.@"
+
+MuddyWaterDescription:
+	db   "May lower the foe's"
+	next "accuracy.@"
+
+NaturePowerDescription:
+	db   "Uses a move that"
+	next "varies by terrain.@"
+
+NeedleArmDescription:
+	db   "An attack that may"
+	next "cause flinching.@"
+
+OdorSleuthDescription:
+	db   "Negates the foe's"
+	next "evasiveness.@"
+
+OverheatDescription:
+	db   "Lowers user's"
+	next "SP.ATK sharply.@"
+
+PoisonFangDescription:
+	db   "May badly poison"
+	next "the foe.@"
+
+PoisonTailDescription:
+	db   "High critical rate."
+	next "May poison.@"
+
+PsychoBoostDescription:
+	db   "Lowers user's"
+	next "SP.ATK sharply.@"
+
+RecycleDescription:
+	db   "Restores a used"
+	next "held item.@"
+
+RefreshDescription:
+	db   "Heals poisoning,"
+	next "burn, or paralysis.@"
+
+RevengeDescription:
+	db   "Stronger if user"
+	next "was hurt first.@"
+
+RockBlastDescription:
+	db   "Hits the foe 2-5"
+	next "times in a row.@"
+
+RockTombDescription:
+	db   "An attack that"
+	next "lowers SPEED.@"
+
+RolePlayDescription:
+	db   "Copies the foe's"
+	next "ability.@"
+
+SandTombDescription:
+	db   "Traps the foe for"
+	next "2-5 turns.@"
+
+SecretPowerDescription:
+	db   "Effect varies with"
+	next "the terrain.@"
+
+ShadowPunchDescription:
+	db   "Never misses the"
+	next "target.@"
+
+SheerColdDescription:
+	db   "A one-hit KO move"
+	next "if it hits.@"
+
+ShockWaveDescription:
+	db   "Never misses the"
+	next "target.@"
+
+SignalBeamDescription:
+	db   "An attack that may"
+	next "confuse the foe.@"
+
+SilverWindDescription:
+	db   "May raise all of"
+	next "the user's stats.@"
+
+SkillSwapDescription:
+	db   "Swaps abilities"
+	next "with the foe.@"
+
+SkyUppercutDescription:
+	db   "A punch that can"
+	next "hit flying foes.@"
+
+SlackOffDescription:
+	db   "Restores HP by half"
+	next "the max HP.@"
+
+SmellingSaltDescription:
+	db   "Strong vs. PARALYZE"
+	next "but cures it.@"
+
+SnatchDescription:
+	db   "Steals the effect"
+	next "of foe's move.@"
+
+SpitUpDescription:
+	db   "Releases stockpiled"
+	next "power.@"
+
+StockpileDescription:
+	db   "Charges up power"
+	next "for SPIT UP, etc.@"
+
+SuperpowerDescription:
+	db   "Lowers user's ATK"
+	next "and DEF.@"
+
+SwallowDescription:
+	db   "Heals HP based on"
+	next "stockpiled power.@"
+
+TailGlowDescription:
+	db   "Drastically raises"
+	next "SP.ATK.@"
+
+TauntDescription:
+	db   "Opponent can only"
+	next "use attack moves.@"
+
+TeeterDanceDescription:
+	db   "Confuses all other"
+	next "#MON.@"
+
+TickleDescription:
+	db   "Lowers the foe's"
+	next "ATK and DEF.@"
+
+TormentDescription:
+	db   "Stops foe from"
+	next "using same move.@"
+
+TrickDescription:
+	db   "Swaps held items"
+	next "with the foe.@"
+
+UproarDescription:
+	db   "Attacks 3 turns."
+	next "Prevents sleep.@"
+
+VoltTackleDescription:
+	db   "A powerful move"
+	next "with recoil.@"
+
+WaterPulseDescription:
+	db   "An attack that may"
+	next "confuse the foe.@"
+
+WaterSportDescription:
+	db   "Weakens FIRE-type"
+	next "moves.@"
+
+WaterSpoutDescription:
+	db   "Stronger if user's"
+	next "HP is high.@"
+
+WeatherBallDescription:
+	db   "Changes with the"
+	next "weather.@"
+
+WillOWispDescription:
+	db   "Inflicts a burn on"
+	next "the foe.@"
+
+WishDescription:
+	db   "Heals user's HP"
+	next "next turn.@"
+
+YawnDescription:
+	db   "Lulls the foe to"
+	next "sleep next turn.@"
