@@ -50,4 +50,7 @@ INCBIN "gfx/font/space.2bpp"
 MobilePhoneTilesGFX:
 INCBIN "gfx/mobile/phone_tiles.2bpp"
 
+
+SECTION "Pokemon Footprints", ROMX
+
 INCLUDE "gfx/footprints.asm"
