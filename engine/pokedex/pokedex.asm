@@ -1615,7 +1615,14 @@ Pokedex_PrintListing:
 	ret c
 	call Pokedex_PlaceCaughtSymbolIfCaught
 	push hl
-	; hl = de * 10 (length of a Pokémon name)
+	; Check if this is a Gen 3 Pokemon (index > 251)
+	ld a, d
+	and a
+	jr nz, .gen3_name
+	ld a, e
+	cp 252
+	jr nc, .gen3_name
+	; Gen 1+2: hl = de * 10 (length of a Pokémon name)
 	ld h, d
 	ld l, e
 	add hl, hl
@@ -1625,6 +1632,23 @@ Pokedex_PrintListing:
 	ld de, PokemonNames - (MON_NAME_LENGTH - 1) ;correct for the one-based indexing
 	add hl, de
 	ld a, BANK(PokemonNames)
+	jr .copy_name
+.gen3_name:
+	; Gen 3: subtract 251, then hl = adjusted * 10
+	ld h, d
+	ld l, e
+	ld bc, -251
+	add hl, bc
+	ld d, h
+	ld e, l
+	add hl, hl
+	add hl, hl
+	add hl, de
+	add hl, hl
+	ld de, PokemonNamesGen3 - (MON_NAME_LENGTH - 1) ;correct for the one-based indexing
+	add hl, de
+	ld a, BANK(PokemonNamesGen3)
+.copy_name:
 	ld bc, MON_NAME_LENGTH - 1
 	ld de, wPokedexNameBuffer
 	push de

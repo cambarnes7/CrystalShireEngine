@@ -126,12 +126,22 @@ GetPokemonName::
 	ldh a, [hROMBank]
 	push af
 	push hl
-	ld a, BANK(PokemonNames)
-	rst Bankswitch
 
 ; Each name is ten characters
 	ld a, [wNamedObjectIndex]
 	call GetPokemonIndexFromID
+
+; Check if this is a Gen 3 Pokemon (index > 251)
+	ld a, h
+	and a
+	jr nz, .gen3
+	ld a, l
+	cp 252
+	jr nc, .gen3
+
+; Gen 1+2 Pokemon
+	ld a, BANK(PokemonNames)
+	rst Bankswitch
 	ld e, l
 	ld d, h
 	add hl, hl
@@ -140,7 +150,24 @@ GetPokemonName::
 	add hl, hl
 	ld de, PokemonNames - 10
 	add hl, de
+	jr .copy
 
+.gen3
+; Gen 3 Pokemon - subtract 251 to get offset into Gen3 table
+	ld de, -251
+	add hl, de
+	ld a, BANK(PokemonNamesGen3)
+	rst Bankswitch
+	ld e, l
+	ld d, h
+	add hl, hl
+	add hl, hl
+	add hl, de
+	add hl, hl
+	ld de, PokemonNamesGen3 - 10
+	add hl, de
+
+.copy
 ; Terminator
 	ld de, wStringBuffer1
 	push de

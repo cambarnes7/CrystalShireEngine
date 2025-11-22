@@ -260,7 +260,7 @@ PokemonNames::
 
 SECTION "Pokemon Names Gen3", ROMX
 
-PokemonNamesGen3:
+PokemonNamesGen3::
 ; Generation 3 Pokemon
 	table_width NAME_LENGTH - 1
 	dname "TREECKO"
