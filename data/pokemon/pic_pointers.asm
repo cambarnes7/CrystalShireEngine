@@ -518,274 +518,274 @@ PokemonPicPointers::
 	dba HoOhBackpic
 	dba CelebiFrontpic
 	dba CelebiBackpic
-	dba BulbasaurFrontpic ; TREECKO
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; GROVYLE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SCEPTILE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; TORCHIC
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; COMBUSKEN
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; BLAZIKEN
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MUDKIP
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MARSHTOMP
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SWAMPERT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; POOCHYENA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MIGHTYENA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ZIGZAGOON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LINOONE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; WURMPLE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SILCOON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; BEAUTIFLY
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CASCOON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; DUSTOX
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LOTAD
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LOMBRE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LUDICOLO
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SEEDOT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; NUZLEAF
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SHIFTRY
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; TAILLOW
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SWELLOW
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; WINGULL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; PELIPPER
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; RALTS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; KIRLIA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; GARDEVOIR
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SURSKIT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MASQUERAIN
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SHROOMISH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; BRELOOM
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SLAKOTH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; VIGOROTH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SLAKING
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; NINCADA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; NINJASK
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SHEDINJA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; WHISMUR
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LOUDRED
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; EXPLOUD
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MAKUHITA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; HARIYAMA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; AZURILL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; NOSEPASS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SKITTY
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; DELCATTY
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SABLEYE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MAWILE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ARON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LAIRON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; AGGRON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MEDITITE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MEDICHAM
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ELECTRIKE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MANECTRIC
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; PLUSLE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MINUN
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; VOLBEAT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ILLUMISE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ROSELIA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; GULPIN
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SWALOT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CARVANHA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SHARPEDO
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; WAILMER
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; WAILORD
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; NUMEL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CAMERUPT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; TORKOAL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SPOINK
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; GRUMPIG
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SPINDA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; TRAPINCH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; VIBRAVA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; FLYGON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CACNEA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CACTURNE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SWABLU
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ALTARIA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ZANGOOSE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SEVIPER
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LUNATONE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SOLROCK
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; BARBOACH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; WHISCASH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CORPHISH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CRAWDAUNT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; BALTOY
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CLAYDOL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LILEEP
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CRADILY
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ANORITH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ARMALDO
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; FEEBAS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; MILOTIC
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CASTFORM
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; KECLEON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SHUPPET
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; BANETTE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; DUSKULL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; DUSCLOPS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; TROPIUS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CHIMECHO
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; ABSOL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; WYNAUT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SNORUNT
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; GLALIE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SPHEAL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SEALEO
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; WALREIN
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; CLAMPERL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; HUNTAIL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; GOREBYSS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; RELICANTH
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LUVDISC
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; BAGON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SHELGON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; SALAMENCE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; BELDUM
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; METANG
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; METAGROSS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; REGIROCK
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; REGICE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; REGISTEEL
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LATIAS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; LATIOS
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; KYOGRE
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; GROUDON
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; RAYQUAZA
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; JIRACHI
-	dba BulbasaurBackpic
-	dba BulbasaurFrontpic ; DEOXYS
-	dba BulbasaurBackpic
+	dba TreeckoFrontpic ; TREECKO
+	dba TreeckoBackpic
+	dba GrovyleFrontpic ; GROVYLE
+	dba GrovyleBackpic
+	dba SceptileFrontpic ; SCEPTILE
+	dba SceptileBackpic
+	dba TorchicFrontpic ; TORCHIC
+	dba TorchicBackpic
+	dba CombuskenFrontpic ; COMBUSKEN
+	dba CombuskenBackpic
+	dba BlazikenFrontpic ; BLAZIKEN
+	dba BlazikenBackpic
+	dba MudkipFrontpic ; MUDKIP
+	dba MudkipBackpic
+	dba MarshtompFrontpic ; MARSHTOMP
+	dba MarshtompBackpic
+	dba SwampertFrontpic ; SWAMPERT
+	dba SwampertBackpic
+	dba PoochyenaFrontpic ; POOCHYENA
+	dba PoochyenaBackpic
+	dba MightyenaFrontpic ; MIGHTYENA
+	dba MightyenaBackpic
+	dba ZigzagoonFrontpic ; ZIGZAGOON
+	dba ZigzagoonBackpic
+	dba LinooneFrontpic ; LINOONE
+	dba LinooneBackpic
+	dba WurmpleFrontpic ; WURMPLE
+	dba WurmpleBackpic
+	dba SilcoonFrontpic ; SILCOON
+	dba SilcoonBackpic
+	dba BeautiflyFrontpic ; BEAUTIFLY
+	dba BeautiflyBackpic
+	dba CascoonFrontpic ; CASCOON
+	dba CascoonBackpic
+	dba DustoxFrontpic ; DUSTOX
+	dba DustoxBackpic
+	dba LotadFrontpic ; LOTAD
+	dba LotadBackpic
+	dba LombreFrontpic ; LOMBRE
+	dba LombreBackpic
+	dba LudicoloFrontpic ; LUDICOLO
+	dba LudicoloBackpic
+	dba SeedotFrontpic ; SEEDOT
+	dba SeedotBackpic
+	dba NuzleafFrontpic ; NUZLEAF
+	dba NuzleafBackpic
+	dba ShiftryFrontpic ; SHIFTRY
+	dba ShiftryBackpic
+	dba TaillowFrontpic ; TAILLOW
+	dba TaillowBackpic
+	dba SwellowFrontpic ; SWELLOW
+	dba SwellowBackpic
+	dba WingullFrontpic ; WINGULL
+	dba WingullBackpic
+	dba PelipperFrontpic ; PELIPPER
+	dba PelipperBackpic
+	dba RaltsFrontpic ; RALTS
+	dba RaltsBackpic
+	dba KirliaFrontpic ; KIRLIA
+	dba KirliaBackpic
+	dba GardevoirFrontpic ; GARDEVOIR
+	dba GardevoirBackpic
+	dba SurskitFrontpic ; SURSKIT
+	dba SurskitBackpic
+	dba MasquerainFrontpic ; MASQUERAIN
+	dba MasquerainBackpic
+	dba ShroomishFrontpic ; SHROOMISH
+	dba ShroomishBackpic
+	dba BreloomFrontpic ; BRELOOM
+	dba BreloomBackpic
+	dba SlakothFrontpic ; SLAKOTH
+	dba SlakothBackpic
+	dba VigorothFrontpic ; VIGOROTH
+	dba VigorothBackpic
+	dba SlakingFrontpic ; SLAKING
+	dba SlakingBackpic
+	dba NincadaFrontpic ; NINCADA
+	dba NincadaBackpic
+	dba NinjaskFrontpic ; NINJASK
+	dba NinjaskBackpic
+	dba ShedinjaFrontpic ; SHEDINJA
+	dba ShedinjaBackpic
+	dba WhismurFrontpic ; WHISMUR
+	dba WhismurBackpic
+	dba LoudredFrontpic ; LOUDRED
+	dba LoudredBackpic
+	dba ExploudFrontpic ; EXPLOUD
+	dba ExploudBackpic
+	dba MakuhitaFrontpic ; MAKUHITA
+	dba MakuhitaBackpic
+	dba HariyamaFrontpic ; HARIYAMA
+	dba HariyamaBackpic
+	dba AzurillFrontpic ; AZURILL
+	dba AzurillBackpic
+	dba NosepassFrontpic ; NOSEPASS
+	dba NosepassBackpic
+	dba SkittyFrontpic ; SKITTY
+	dba SkittyBackpic
+	dba DelcattyFrontpic ; DELCATTY
+	dba DelcattyBackpic
+	dba SableyeFrontpic ; SABLEYE
+	dba SableyeBackpic
+	dba MawileFrontpic ; MAWILE
+	dba MawileBackpic
+	dba AronFrontpic ; ARON
+	dba AronBackpic
+	dba LaironFrontpic ; LAIRON
+	dba LaironBackpic
+	dba AggronFrontpic ; AGGRON
+	dba AggronBackpic
+	dba MedititeFrontpic ; MEDITITE
+	dba MedititeBackpic
+	dba MedichamFrontpic ; MEDICHAM
+	dba MedichamBackpic
+	dba ElectrikeFrontpic ; ELECTRIKE
+	dba ElectrikeBackpic
+	dba ManectricFrontpic ; MANECTRIC
+	dba ManectricBackpic
+	dba PlusleFrontpic ; PLUSLE
+	dba PlusleBackpic
+	dba MinunFrontpic ; MINUN
+	dba MinunBackpic
+	dba VolbeatFrontpic ; VOLBEAT
+	dba VolbeatBackpic
+	dba IllumiseFrontpic ; ILLUMISE
+	dba IllumiseBackpic
+	dba RoseliaFrontpic ; ROSELIA
+	dba RoseliaBackpic
+	dba GulpinFrontpic ; GULPIN
+	dba GulpinBackpic
+	dba SwalotFrontpic ; SWALOT
+	dba SwalotBackpic
+	dba CarvanhaFrontpic ; CARVANHA
+	dba CarvanhaBackpic
+	dba SharpedoFrontpic ; SHARPEDO
+	dba SharpedoBackpic
+	dba WailmerFrontpic ; WAILMER
+	dba WailmerBackpic
+	dba WailordFrontpic ; WAILORD
+	dba WailordBackpic
+	dba NumelFrontpic ; NUMEL
+	dba NumelBackpic
+	dba CameruptFrontpic ; CAMERUPT
+	dba CameruptBackpic
+	dba TorkoalFrontpic ; TORKOAL
+	dba TorkoalBackpic
+	dba SpoinkFrontpic ; SPOINK
+	dba SpoinkBackpic
+	dba GrumpigFrontpic ; GRUMPIG
+	dba GrumpigBackpic
+	dba SpindaFrontpic ; SPINDA
+	dba SpindaBackpic
+	dba TrapinchFrontpic ; TRAPINCH
+	dba TrapinchBackpic
+	dba VibravaFrontpic ; VIBRAVA
+	dba VibravaBackpic
+	dba FlygonFrontpic ; FLYGON
+	dba FlygonBackpic
+	dba CacneaFrontpic ; CACNEA
+	dba CacneaBackpic
+	dba CacturneFrontpic ; CACTURNE
+	dba CacturneBackpic
+	dba SwabluFrontpic ; SWABLU
+	dba SwabluBackpic
+	dba AltariaFrontpic ; ALTARIA
+	dba AltariaBackpic
+	dba ZangooseFrontpic ; ZANGOOSE
+	dba ZangooseBackpic
+	dba SeviperFrontpic ; SEVIPER
+	dba SeviperBackpic
+	dba LunatoneFrontpic ; LUNATONE
+	dba LunatoneBackpic
+	dba SolrockFrontpic ; SOLROCK
+	dba SolrockBackpic
+	dba BarboachFrontpic ; BARBOACH
+	dba BarboachBackpic
+	dba WhiscashFrontpic ; WHISCASH
+	dba WhiscashBackpic
+	dba CorphishFrontpic ; CORPHISH
+	dba CorphishBackpic
+	dba CrawdauntFrontpic ; CRAWDAUNT
+	dba CrawdauntBackpic
+	dba BaltoyFrontpic ; BALTOY
+	dba BaltoyBackpic
+	dba ClaydolFrontpic ; CLAYDOL
+	dba ClaydolBackpic
+	dba LileepFrontpic ; LILEEP
+	dba LileepBackpic
+	dba CradilyFrontpic ; CRADILY
+	dba CradilyBackpic
+	dba AnorithFrontpic ; ANORITH
+	dba AnorithBackpic
+	dba ArmaldoFrontpic ; ARMALDO
+	dba ArmaldoBackpic
+	dba FeebasFrontpic ; FEEBAS
+	dba FeebasBackpic
+	dba MiloticFrontpic ; MILOTIC
+	dba MiloticBackpic
+	dba CastformFrontpic ; CASTFORM
+	dba CastformBackpic
+	dba KecleonFrontpic ; KECLEON
+	dba KecleonBackpic
+	dba ShuppetFrontpic ; SHUPPET
+	dba ShuppetBackpic
+	dba BanetteFrontpic ; BANETTE
+	dba BanetteBackpic
+	dba DuskullFrontpic ; DUSKULL
+	dba DuskullBackpic
+	dba DusclopsFrontpic ; DUSCLOPS
+	dba DusclopsBackpic
+	dba TropiusFrontpic ; TROPIUS
+	dba TropiusBackpic
+	dba ChimechoFrontpic ; CHIMECHO
+	dba ChimechoBackpic
+	dba AbsolFrontpic ; ABSOL
+	dba AbsolBackpic
+	dba WynautFrontpic ; WYNAUT
+	dba WynautBackpic
+	dba SnoruntFrontpic ; SNORUNT
+	dba SnoruntBackpic
+	dba GlalieFrontpic ; GLALIE
+	dba GlalieBackpic
+	dba SphealFrontpic ; SPHEAL
+	dba SphealBackpic
+	dba SealeoFrontpic ; SEALEO
+	dba SealeoBackpic
+	dba WalreinFrontpic ; WALREIN
+	dba WalreinBackpic
+	dba ClamperlFrontpic ; CLAMPERL
+	dba ClamperlBackpic
+	dba HuntailFrontpic ; HUNTAIL
+	dba HuntailBackpic
+	dba GorebyssFrontpic ; GOREBYSS
+	dba GorebyssBackpic
+	dba RelicanthFrontpic ; RELICANTH
+	dba RelicanthBackpic
+	dba LuvdiscFrontpic ; LUVDISC
+	dba LuvdiscBackpic
+	dba BagonFrontpic ; BAGON
+	dba BagonBackpic
+	dba ShelgonFrontpic ; SHELGON
+	dba ShelgonBackpic
+	dba SalamenceFrontpic ; SALAMENCE
+	dba SalamenceBackpic
+	dba BeldumFrontpic ; BELDUM
+	dba BeldumBackpic
+	dba MetangFrontpic ; METANG
+	dba MetangBackpic
+	dba MetagrossFrontpic ; METAGROSS
+	dba MetagrossBackpic
+	dba RegirockFrontpic ; REGIROCK
+	dba RegirockBackpic
+	dba RegiceFrontpic ; REGICE
+	dba RegiceBackpic
+	dba RegisteelFrontpic ; REGISTEEL
+	dba RegisteelBackpic
+	dba LatiasFrontpic ; LATIAS
+	dba LatiasBackpic
+	dba LatiosFrontpic ; LATIOS
+	dba LatiosBackpic
+	dba KyogreFrontpic ; KYOGRE
+	dba KyogreBackpic
+	dba GroudonFrontpic ; GROUDON
+	dba GroudonBackpic
+	dba RayquazaFrontpic ; RAYQUAZA
+	dba RayquazaBackpic
+	dba JirachiFrontpic ; JIRACHI
+	dba JirachiBackpic
+	dba DeoxysFrontpic ; DEOXYS
+	dba DeoxysBackpic
 	assert_table_length NUM_POKEMON + 1

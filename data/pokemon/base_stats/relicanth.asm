@@ -10,7 +10,7 @@
 	dw NO_ITEM, NO_ITEM ; items
 	db GENDER_F12_5 ; gender ratio
 	db 20 ; step cycles to hatch
-	INCBIN "gfx/pokemon/bulbasaur/front.dimensions"
+	INCBIN "gfx/pokemon/relicanth/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
 	dn EGG_WATER_1, EGG_WATER_2 ; egg groups
