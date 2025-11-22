@@ -252,8 +252,7 @@ INCBIN "gfx/footprints/tyranitar.1bpp"
 INCBIN "gfx/footprints/lugia.1bpp"
 INCBIN "gfx/footprints/ho_oh.1bpp"
 INCBIN "gfx/footprints/celebi.1bpp"
-
-	assert_table_length NUM_POKEMON
+; Generation 3 Pokemon
 INCBIN "gfx/footprints/bulbasaur.1bpp" ; TREECKO
 INCBIN "gfx/footprints/bulbasaur.1bpp" ; GROVYLE
 INCBIN "gfx/footprints/bulbasaur.1bpp" ; SCEPTILE

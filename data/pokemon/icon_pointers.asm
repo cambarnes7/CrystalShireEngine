@@ -256,140 +256,140 @@ IconPointers:
 	dw LugiaIcon
 	dw HoOhIcon
 	dw CelebiIcon
+; Generation 3 Pokemon
+	dw BulbasaurIcon ; TREECKO
+	dw BulbasaurIcon ; GROVYLE
+	dw BulbasaurIcon ; SCEPTILE
+	dw BulbasaurIcon ; TORCHIC
+	dw BulbasaurIcon ; COMBUSKEN
+	dw BulbasaurIcon ; BLAZIKEN
+	dw BulbasaurIcon ; MUDKIP
+	dw BulbasaurIcon ; MARSHTOMP
+	dw BulbasaurIcon ; SWAMPERT
+	dw BulbasaurIcon ; POOCHYENA
+	dw BulbasaurIcon ; MIGHTYENA
+	dw BulbasaurIcon ; ZIGZAGOON
+	dw BulbasaurIcon ; LINOONE
+	dw BulbasaurIcon ; WURMPLE
+	dw BulbasaurIcon ; SILCOON
+	dw BulbasaurIcon ; BEAUTIFLY
+	dw BulbasaurIcon ; CASCOON
+	dw BulbasaurIcon ; DUSTOX
+	dw BulbasaurIcon ; LOTAD
+	dw BulbasaurIcon ; LOMBRE
+	dw BulbasaurIcon ; LUDICOLO
+	dw BulbasaurIcon ; SEEDOT
+	dw BulbasaurIcon ; NUZLEAF
+	dw BulbasaurIcon ; SHIFTRY
+	dw BulbasaurIcon ; TAILLOW
+	dw BulbasaurIcon ; SWELLOW
+	dw BulbasaurIcon ; WINGULL
+	dw BulbasaurIcon ; PELIPPER
+	dw BulbasaurIcon ; RALTS
+	dw BulbasaurIcon ; KIRLIA
+	dw BulbasaurIcon ; GARDEVOIR
+	dw BulbasaurIcon ; SURSKIT
+	dw BulbasaurIcon ; MASQUERAIN
+	dw BulbasaurIcon ; SHROOMISH
+	dw BulbasaurIcon ; BRELOOM
+	dw BulbasaurIcon ; SLAKOTH
+	dw BulbasaurIcon ; VIGOROTH
+	dw BulbasaurIcon ; SLAKING
+	dw BulbasaurIcon ; NINCADA
+	dw BulbasaurIcon ; NINJASK
+	dw BulbasaurIcon ; SHEDINJA
+	dw BulbasaurIcon ; WHISMUR
+	dw BulbasaurIcon ; LOUDRED
+	dw BulbasaurIcon ; EXPLOUD
+	dw BulbasaurIcon ; MAKUHITA
+	dw BulbasaurIcon ; HARIYAMA
+	dw BulbasaurIcon ; AZURILL
+	dw BulbasaurIcon ; NOSEPASS
+	dw BulbasaurIcon ; SKITTY
+	dw BulbasaurIcon ; DELCATTY
+	dw BulbasaurIcon ; SABLEYE
+	dw BulbasaurIcon ; MAWILE
+	dw BulbasaurIcon ; ARON
+	dw BulbasaurIcon ; LAIRON
+	dw BulbasaurIcon ; AGGRON
+	dw BulbasaurIcon ; MEDITITE
+	dw BulbasaurIcon ; MEDICHAM
+	dw BulbasaurIcon ; ELECTRIKE
+	dw BulbasaurIcon ; MANECTRIC
+	dw BulbasaurIcon ; PLUSLE
+	dw BulbasaurIcon ; MINUN
+	dw BulbasaurIcon ; VOLBEAT
+	dw BulbasaurIcon ; ILLUMISE
+	dw BulbasaurIcon ; ROSELIA
+	dw BulbasaurIcon ; GULPIN
+	dw BulbasaurIcon ; SWALOT
+	dw BulbasaurIcon ; CARVANHA
+	dw BulbasaurIcon ; SHARPEDO
+	dw BulbasaurIcon ; WAILMER
+	dw BulbasaurIcon ; WAILORD
+	dw BulbasaurIcon ; NUMEL
+	dw BulbasaurIcon ; CAMERUPT
+	dw BulbasaurIcon ; TORKOAL
+	dw BulbasaurIcon ; SPOINK
+	dw BulbasaurIcon ; GRUMPIG
+	dw BulbasaurIcon ; SPINDA
+	dw BulbasaurIcon ; TRAPINCH
+	dw BulbasaurIcon ; VIBRAVA
+	dw BulbasaurIcon ; FLYGON
+	dw BulbasaurIcon ; CACNEA
+	dw BulbasaurIcon ; CACTURNE
+	dw BulbasaurIcon ; SWABLU
+	dw BulbasaurIcon ; ALTARIA
+	dw BulbasaurIcon ; ZANGOOSE
+	dw BulbasaurIcon ; SEVIPER
+	dw BulbasaurIcon ; LUNATONE
+	dw BulbasaurIcon ; SOLROCK
+	dw BulbasaurIcon ; BARBOACH
+	dw BulbasaurIcon ; WHISCASH
+	dw BulbasaurIcon ; CORPHISH
+	dw BulbasaurIcon ; CRAWDAUNT
+	dw BulbasaurIcon ; BALTOY
+	dw BulbasaurIcon ; CLAYDOL
+	dw BulbasaurIcon ; LILEEP
+	dw BulbasaurIcon ; CRADILY
+	dw BulbasaurIcon ; ANORITH
+	dw BulbasaurIcon ; ARMALDO
+	dw BulbasaurIcon ; FEEBAS
+	dw BulbasaurIcon ; MILOTIC
+	dw BulbasaurIcon ; CASTFORM
+	dw BulbasaurIcon ; KECLEON
+	dw BulbasaurIcon ; SHUPPET
+	dw BulbasaurIcon ; BANETTE
+	dw BulbasaurIcon ; DUSKULL
+	dw BulbasaurIcon ; DUSCLOPS
+	dw BulbasaurIcon ; TROPIUS
+	dw BulbasaurIcon ; CHIMECHO
+	dw BulbasaurIcon ; ABSOL
+	dw BulbasaurIcon ; WYNAUT
+	dw BulbasaurIcon ; SNORUNT
+	dw BulbasaurIcon ; GLALIE
+	dw BulbasaurIcon ; SPHEAL
+	dw BulbasaurIcon ; SEALEO
+	dw BulbasaurIcon ; WALREIN
+	dw BulbasaurIcon ; CLAMPERL
+	dw BulbasaurIcon ; HUNTAIL
+	dw BulbasaurIcon ; GOREBYSS
+	dw BulbasaurIcon ; RELICANTH
+	dw BulbasaurIcon ; LUVDISC
+	dw BulbasaurIcon ; BAGON
+	dw BulbasaurIcon ; SHELGON
+	dw BulbasaurIcon ; SALAMENCE
+	dw BulbasaurIcon ; BELDUM
+	dw BulbasaurIcon ; METANG
+	dw BulbasaurIcon ; METAGROSS
+	dw BulbasaurIcon ; REGIROCK
+	dw BulbasaurIcon ; REGICE
+	dw BulbasaurIcon ; REGISTEEL
+	dw BulbasaurIcon ; LATIAS
+	dw BulbasaurIcon ; LATIOS
+	dw BulbasaurIcon ; KYOGRE
+	dw BulbasaurIcon ; GROUDON
+	dw BulbasaurIcon ; RAYQUAZA
+	dw BulbasaurIcon ; JIRACHI
+	dw BulbasaurIcon ; DEOXYS
 	assert_table_length NUM_POKEMON + 1
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; TREECKO
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; GROVYLE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SCEPTILE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; TORCHIC
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; COMBUSKEN
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; BLAZIKEN
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MUDKIP
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MARSHTOMP
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SWAMPERT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; POOCHYENA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MIGHTYENA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ZIGZAGOON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LINOONE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; WURMPLE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SILCOON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; BEAUTIFLY
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CASCOON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; DUSTOX
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LOTAD
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LOMBRE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LUDICOLO
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SEEDOT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; NUZLEAF
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SHIFTRY
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; TAILLOW
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SWELLOW
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; WINGULL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; PELIPPER
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; RALTS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; KIRLIA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; GARDEVOIR
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SURSKIT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MASQUERAIN
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SHROOMISH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; BRELOOM
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SLAKOTH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; VIGOROTH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SLAKING
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; NINCADA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; NINJASK
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SHEDINJA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; WHISMUR
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LOUDRED
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; EXPLOUD
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MAKUHITA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; HARIYAMA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; AZURILL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; NOSEPASS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SKITTY
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; DELCATTY
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SABLEYE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MAWILE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ARON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LAIRON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; AGGRON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MEDITITE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MEDICHAM
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ELECTRIKE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MANECTRIC
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; PLUSLE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MINUN
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; VOLBEAT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ILLUMISE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ROSELIA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; GULPIN
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SWALOT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CARVANHA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SHARPEDO
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; WAILMER
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; WAILORD
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; NUMEL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CAMERUPT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; TORKOAL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SPOINK
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; GRUMPIG
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SPINDA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; TRAPINCH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; VIBRAVA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; FLYGON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CACNEA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CACTURNE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SWABLU
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ALTARIA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ZANGOOSE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SEVIPER
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LUNATONE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SOLROCK
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; BARBOACH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; WHISCASH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CORPHISH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CRAWDAUNT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; BALTOY
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CLAYDOL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LILEEP
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CRADILY
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ANORITH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ARMALDO
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; FEEBAS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; MILOTIC
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CASTFORM
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; KECLEON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SHUPPET
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; BANETTE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; DUSKULL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; DUSCLOPS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; TROPIUS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CHIMECHO
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; ABSOL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; WYNAUT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SNORUNT
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; GLALIE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SPHEAL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SEALEO
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; WALREIN
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; CLAMPERL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; HUNTAIL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; GOREBYSS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; RELICANTH
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LUVDISC
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; BAGON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SHELGON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; SALAMENCE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; BELDUM
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; METANG
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; METAGROSS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; REGIROCK
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; REGICE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; REGISTEEL
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LATIAS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; LATIOS
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; KYOGRE
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; GROUDON
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; RAYQUAZA
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; JIRACHI
-	dw BulbasaurIcon, BANK(BulbasaurIcon) ; DEOXYS
-	assert_table_length NUM_POKEMON

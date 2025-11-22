@@ -251,7 +251,7 @@ AnimationPointers:
 	dw LugiaAnimation
 	dw HoOhAnimation
 	dw CelebiAnimation
-	assert_table_length NUM_POKEMON
+; Generation 3 Pokemon
 	dw BulbasaurAnimation ; TREECKO
 	dw BulbasaurAnimation ; GROVYLE
 	dw BulbasaurAnimation ; SCEPTILE

@@ -252,7 +252,6 @@ FirstEvoStages::
 	dw LUGIA
 	dw HO_OH
 	dw CELEBI
-	assert_table_length NUM_POKEMON
 ; Generation 3 Pokemon first stages
 	dw TREECKO    ; TREECKO
 	dw TREECKO    ; GROVYLE

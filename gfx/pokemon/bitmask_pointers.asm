@@ -251,7 +251,7 @@ BitmasksPointers:
 	dw LugiaBitmasks
 	dw HoOhBitmasks
 	dw CelebiBitmasks
-	assert_table_length NUM_POKEMON
+; Generation 3 Pokemon
 	dw BulbasaurBitmasks ; TREECKO
 	dw BulbasaurBitmasks ; GROVYLE
 	dw BulbasaurBitmasks ; SCEPTILE

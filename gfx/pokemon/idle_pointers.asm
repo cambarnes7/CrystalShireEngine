@@ -251,7 +251,7 @@ AnimationIdlePointers:
 	dw LugiaAnimationIdle
 	dw HoOhAnimationIdle
 	dw CelebiAnimationIdle
-	assert_table_length NUM_POKEMON
+; Generation 3 Pokemon
 	dw BulbasaurAnimationIdle ; TREECKO
 	dw BulbasaurAnimationIdle ; GROVYLE
 	dw BulbasaurAnimationIdle ; SCEPTILE

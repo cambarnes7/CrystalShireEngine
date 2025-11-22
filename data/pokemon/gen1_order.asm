@@ -1,5 +1,6 @@
 Pokered_MonIndices:
 	table_width 1
+	db 0 ; placeholder for index 0
 	db RHYDON
 	db KANGASKHAN
 	db NIDORAN_M
