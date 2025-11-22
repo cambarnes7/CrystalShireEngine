@@ -200,4 +200,6 @@ MoveEffectsPointers:
 	dw NormalHit ; EFFECT_NATURE_POWER
 	dw NormalHit ; EFFECT_CHARGE
 	dw NormalHit ; EFFECT_CAMOUFLAGE
+	dw NormalHit ; EFFECT_FACADE
+	dw NormalHit ; EFFECT_ENDEAVOR
 	assert_table_length NUM_MOVE_EFFECTS
