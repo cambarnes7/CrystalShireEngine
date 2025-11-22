@@ -327,6 +327,7 @@ ROMX $79
 ROMX $7a
 	"Time Capsule Code"
 	"Pokedex Code"
+	"Battle Misc Code"
 ROMX $7b
 	"Battle Tower Text"
 ROMX $7c

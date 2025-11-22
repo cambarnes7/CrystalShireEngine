@@ -474,6 +474,10 @@ INCLUDE "engine/gfx/load_font.asm"
 INCLUDE "engine/events/name_rater.asm"
 INCLUDE "engine/events/play_slow_cry.asm"
 INCLUDE "engine/events/magikarp.asm"
+
+
+SECTION "Battle Misc Code", ROMX
+
 INCLUDE "engine/battle/hidden_power.asm"
 INCLUDE "engine/battle/misc.asm"
 
