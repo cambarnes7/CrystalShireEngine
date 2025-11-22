@@ -422,10 +422,13 @@ INCLUDE "gfx/pokemon/unown_anim_pointers.asm"
 INCLUDE "gfx/pokemon/unown_anims.asm"
 INCLUDE "gfx/pokemon/unown_idle_pointers.asm"
 INCLUDE "gfx/pokemon/unown_idles.asm"
+INCLUDE "gfx/pokemon/deoxys_anim_pointers.asm"
+INCLUDE "gfx/pokemon/deoxys_idle_pointers.asm"
 INCLUDE "gfx/pokemon/bitmask_pointers.asm"
 INCLUDE "gfx/pokemon/bitmasks.asm"
 INCLUDE "gfx/pokemon/unown_bitmask_pointers.asm"
 INCLUDE "gfx/pokemon/unown_bitmasks.asm"
+INCLUDE "gfx/pokemon/deoxys_bitmask_pointers.asm"
 
 
 SECTION "Pic Animations 2", ROMX
@@ -439,6 +442,7 @@ SECTION "Pic Animations 3", ROMX
 INCLUDE "gfx/pokemon/johto_frames.asm"
 INCLUDE "gfx/pokemon/unown_frame_pointers.asm"
 INCLUDE "gfx/pokemon/unown_frames.asm"
+INCLUDE "gfx/pokemon/deoxys_frame_pointers.asm"
 
 
 SECTION "bank38", ROMX

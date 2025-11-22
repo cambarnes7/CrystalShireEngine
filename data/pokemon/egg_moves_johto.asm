@@ -101,11 +101,142 @@ EggMovePointers2::
 	dw NoEggMoves2
 	dw NoEggMoves2
 	dw NoEggMoves2
-	dw NoEggMoves2 ; MEWTWO1
-	dw NoEggMoves2 ; MEWTWO2
-	dw NoEggMoves2 ; MEWTWO3
-	dw NoEggMoves2 ; MEWTWO4
-	dw NoEggMoves2 ; MEWTWO5
+; Generation 3 Pokemon (Hoenn)
+	dw TreeckoEggMoves ; TREECKO
+	dw NoEggMoves2 ; GROVYLE
+	dw NoEggMoves2 ; SCEPTILE
+	dw TorchicEggMoves ; TORCHIC
+	dw NoEggMoves2 ; COMBUSKEN
+	dw NoEggMoves2 ; BLAZIKEN
+	dw MudkipEggMoves ; MUDKIP
+	dw NoEggMoves2 ; MARSHTOMP
+	dw NoEggMoves2 ; SWAMPERT
+	dw NoEggMoves2 ; POOCHYENA
+	dw NoEggMoves2 ; MIGHTYENA
+	dw NoEggMoves2 ; ZIGZAGOON
+	dw NoEggMoves2 ; LINOONE
+	dw NoEggMoves2 ; WURMPLE
+	dw NoEggMoves2 ; SILCOON
+	dw NoEggMoves2 ; BEAUTIFLY
+	dw NoEggMoves2 ; CASCOON
+	dw NoEggMoves2 ; DUSTOX
+	dw NoEggMoves2 ; LOTAD
+	dw NoEggMoves2 ; LOMBRE
+	dw NoEggMoves2 ; LUDICOLO
+	dw NoEggMoves2 ; SEEDOT
+	dw NoEggMoves2 ; NUZLEAF
+	dw NoEggMoves2 ; SHIFTRY
+	dw NoEggMoves2 ; TAILLOW
+	dw NoEggMoves2 ; SWELLOW
+	dw NoEggMoves2 ; WINGULL
+	dw NoEggMoves2 ; PELIPPER
+	dw NoEggMoves2 ; RALTS
+	dw NoEggMoves2 ; KIRLIA
+	dw NoEggMoves2 ; GARDEVOIR
+	dw NoEggMoves2 ; SURSKIT
+	dw NoEggMoves2 ; MASQUERAIN
+	dw NoEggMoves2 ; SHROOMISH
+	dw NoEggMoves2 ; BRELOOM
+	dw NoEggMoves2 ; SLAKOTH
+	dw NoEggMoves2 ; VIGOROTH
+	dw NoEggMoves2 ; SLAKING
+	dw NoEggMoves2 ; NINCADA
+	dw NoEggMoves2 ; NINJASK
+	dw NoEggMoves2 ; SHEDINJA
+	dw NoEggMoves2 ; WHISMUR
+	dw NoEggMoves2 ; LOUDRED
+	dw NoEggMoves2 ; EXPLOUD
+	dw NoEggMoves2 ; MAKUHITA
+	dw NoEggMoves2 ; HARIYAMA
+	dw NoEggMoves2 ; AZURILL
+	dw NoEggMoves2 ; NOSEPASS
+	dw NoEggMoves2 ; SKITTY
+	dw NoEggMoves2 ; DELCATTY
+	dw NoEggMoves2 ; SABLEYE
+	dw NoEggMoves2 ; MAWILE
+	dw NoEggMoves2 ; ARON
+	dw NoEggMoves2 ; LAIRON
+	dw NoEggMoves2 ; AGGRON
+	dw NoEggMoves2 ; MEDITITE
+	dw NoEggMoves2 ; MEDICHAM
+	dw NoEggMoves2 ; ELECTRIKE
+	dw NoEggMoves2 ; MANECTRIC
+	dw NoEggMoves2 ; PLUSLE
+	dw NoEggMoves2 ; MINUN
+	dw NoEggMoves2 ; VOLBEAT
+	dw NoEggMoves2 ; ILLUMISE
+	dw NoEggMoves2 ; ROSELIA
+	dw NoEggMoves2 ; GULPIN
+	dw NoEggMoves2 ; SWALOT
+	dw NoEggMoves2 ; CARVANHA
+	dw NoEggMoves2 ; SHARPEDO
+	dw NoEggMoves2 ; WAILMER
+	dw NoEggMoves2 ; WAILORD
+	dw NoEggMoves2 ; NUMEL
+	dw NoEggMoves2 ; CAMERUPT
+	dw NoEggMoves2 ; TORKOAL
+	dw NoEggMoves2 ; SPOINK
+	dw NoEggMoves2 ; GRUMPIG
+	dw NoEggMoves2 ; SPINDA
+	dw NoEggMoves2 ; TRAPINCH
+	dw NoEggMoves2 ; VIBRAVA
+	dw NoEggMoves2 ; FLYGON
+	dw NoEggMoves2 ; CACNEA
+	dw NoEggMoves2 ; CACTURNE
+	dw NoEggMoves2 ; SWABLU
+	dw NoEggMoves2 ; ALTARIA
+	dw NoEggMoves2 ; ZANGOOSE
+	dw NoEggMoves2 ; SEVIPER
+	dw NoEggMoves2 ; LUNATONE
+	dw NoEggMoves2 ; SOLROCK
+	dw NoEggMoves2 ; BARBOACH
+	dw NoEggMoves2 ; WHISCASH
+	dw NoEggMoves2 ; CORPHISH
+	dw NoEggMoves2 ; CRAWDAUNT
+	dw NoEggMoves2 ; BALTOY
+	dw NoEggMoves2 ; CLAYDOL
+	dw NoEggMoves2 ; LILEEP
+	dw NoEggMoves2 ; CRADILY
+	dw NoEggMoves2 ; ANORITH
+	dw NoEggMoves2 ; ARMALDO
+	dw NoEggMoves2 ; FEEBAS
+	dw NoEggMoves2 ; MILOTIC
+	dw NoEggMoves2 ; CASTFORM
+	dw NoEggMoves2 ; KECLEON
+	dw NoEggMoves2 ; SHUPPET
+	dw NoEggMoves2 ; BANETTE
+	dw NoEggMoves2 ; DUSKULL
+	dw NoEggMoves2 ; DUSCLOPS
+	dw NoEggMoves2 ; TROPIUS
+	dw NoEggMoves2 ; CHIMECHO
+	dw NoEggMoves2 ; ABSOL
+	dw NoEggMoves2 ; WYNAUT
+	dw NoEggMoves2 ; SNORUNT
+	dw NoEggMoves2 ; GLALIE
+	dw NoEggMoves2 ; SPHEAL
+	dw NoEggMoves2 ; SEALEO
+	dw NoEggMoves2 ; WALREIN
+	dw NoEggMoves2 ; CLAMPERL
+	dw NoEggMoves2 ; HUNTAIL
+	dw NoEggMoves2 ; GOREBYSS
+	dw NoEggMoves2 ; RELICANTH
+	dw NoEggMoves2 ; LUVDISC
+	dw NoEggMoves2 ; BAGON
+	dw NoEggMoves2 ; SHELGON
+	dw NoEggMoves2 ; SALAMENCE
+	dw NoEggMoves2 ; BELDUM
+	dw NoEggMoves2 ; METANG
+	dw NoEggMoves2 ; METAGROSS
+	dw NoEggMoves2 ; REGIROCK
+	dw NoEggMoves2 ; REGICE
+	dw NoEggMoves2 ; REGISTEEL
+	dw NoEggMoves2 ; LATIAS
+	dw NoEggMoves2 ; LATIOS
+	dw NoEggMoves2 ; KYOGRE
+	dw NoEggMoves2 ; GROUDON
+	dw NoEggMoves2 ; RAYQUAZA
+	dw NoEggMoves2 ; JIRACHI
+	dw NoEggMoves2 ; DEOXYS
 .IndirectEnd::
 
 ChikoritaEggMoves:
@@ -471,6 +602,27 @@ LarvitarEggMoves:
 	dw OUTRAGE
 	dw FOCUS_ENERGY
 	dw ANCIENTPOWER
+	dw -1 ; end
+
+; Generation 3 Pokemon Egg Moves (placeholders)
+TreeckoEggMoves:
+	dw LEECH_SEED
+	dw CRUNCH
+	dw ENDEAVOR
+	dw -1 ; end
+
+TorchicEggMoves:
+	dw COUNTER
+	dw REVERSAL
+	dw ENDURE
+	dw -1 ; end
+
+MudkipEggMoves:
+	dw STOMP
+	dw CURSE
+	dw WHIRLPOOL
+	dw -1 ; end
+
 NoEggMoves2:
 	dw -1 ; end
 

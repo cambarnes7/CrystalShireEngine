@@ -2409,6 +2409,7 @@ wForcedSwitch:: db
 wTrainerClass:: db
 
 wUnownLetter:: db
+wDeoxysForm:: db
 
 wMoveSelectionMenuType:: db
 

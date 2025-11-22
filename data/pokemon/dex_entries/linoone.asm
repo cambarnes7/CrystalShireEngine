@@ -1,0 +1,5 @@
+	db "LINOONE@"
+	db "A Pokemon from"
+	next "the Hoenn region."
+	page "It was added in"
+	next "Generation 3."

@@ -134,6 +134,7 @@ GetPicIndirectPointer:
 	call GetPokemonIndexFromID
 	ld b, h
 	ld c, l
+	; Check for Unown
 	ld a, l
 	sub LOW(UNOWN)
 	if HIGH(UNOWN) == 0
@@ -149,6 +150,14 @@ GetPicIndirectPointer:
 	endc
 	jr z, .unown
 .not_unown
+	; Check for Deoxys
+	ld a, c
+	sub LOW(DEOXYS)
+	jr nz, .not_deoxys
+	ld a, b
+	cp HIGH(DEOXYS)
+	jr z, .deoxys
+.not_deoxys
 	ld hl, PokemonPicPointers
 	ld d, BANK(PokemonPicPointers)
 .done
@@ -161,6 +170,18 @@ GetPicIndirectPointer:
 	ld b, 0
 	ld hl, UnownPicPointers - 6
 	ld d, BANK(UnownPicPointers)
+	jr .done
+
+.deoxys
+	ld a, [wDeoxysForm]
+	and a
+	jr nz, .got_deoxys_form
+	ld a, DEOXYS_NORMAL ; default to normal form
+.got_deoxys_form
+	ld c, a
+	ld b, 0
+	ld hl, DeoxysPicPointers - 6
+	ld d, BANK(DeoxysPicPointers)
 	jr .done
 
 GetFrontpicPointer:

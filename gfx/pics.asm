@@ -12,6 +12,11 @@ SECTION "Unown Pic Pointers", ROMX
 INCLUDE "data/pokemon/unown_pic_pointers.asm"
 
 
+SECTION "Deoxys Pic Pointers", ROMX
+
+INCLUDE "data/pokemon/deoxys_pic_pointers.asm"
+
+
 SECTION "Trainer Pic Pointers", ROMX
 
 INCLUDE "data/trainers/pic_pointers.asm"
