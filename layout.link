@@ -37,11 +37,11 @@ ROMX $01
 ROMX $02
 	"bank2"
 	"Tileset Data 9"
-	"Tileset Data 9b"
 ROMX $03
 	"bank3"
 	"VWF"
 	"mobile5C"
+	"Tileset Data 9b"
 ROMX $04
 	"bank4"
 	"Tileset Data 11"
@@ -186,9 +186,9 @@ ROMX $3c
 	"Songs 3"
 	"Sound Effects"
 	"Cries"
-	"Cries Gen3"
 ROMX $3d
 	"Songs 4"
+	"Cries Gen3"
 ROMX $3e
 	"bank3E"
 ROMX $3f
@@ -216,10 +216,10 @@ ROMX $47
 ROMX $48
 	"Pic Pointers"
 	"Pics 1"
-	"Pics 1b"
 ROMX $49
 	"Unown Pic Pointers"
 	"Pics 2"
+	"Pics 1b"
 ROMX $4a
 	"Trainer Pic Pointers"
 	"Pics 3"
@@ -316,9 +316,9 @@ ROMX $75
 ROMX $76
 	"Pokemon Base Stats"
 	"Pokemon Names"
-	"Pokemon Names Gen3"
 ROMX $77
 	"Unown Font"
+	"Pokemon Names Gen3"
 	"Print Party"
 	"Tileset Data 7"
 	"bank77"
