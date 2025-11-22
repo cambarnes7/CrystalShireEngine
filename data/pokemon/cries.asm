@@ -263,187 +263,188 @@ SECTION "Cries Gen3", ROMX
 
 PokemonCriesGen3::
 ; Generation 3 Pokemon cries
-; Each family uses a unique base cry with pitch/length variations for evolutions
+; Each family uses its own cry constant (all currently use Bulbasaur cry data)
+; Pitch/length variations distinguish evolutions within families
 	table_width MON_CRY_LENGTH
 ; Hoenn Starters
-	mon_cry CRY_CHIKORITA,   128,  160 ; TREECKO
-	mon_cry CRY_CHIKORITA,    64,  224 ; GROVYLE
-	mon_cry CRY_CHIKORITA,     0,  288 ; SCEPTILE
-	mon_cry CRY_CYNDAQUIL,   128,  160 ; TORCHIC
-	mon_cry CRY_CYNDAQUIL,    64,  224 ; COMBUSKEN
-	mon_cry CRY_CYNDAQUIL,     0,  288 ; BLAZIKEN
-	mon_cry CRY_TOTODILE,    128,  160 ; MUDKIP
-	mon_cry CRY_TOTODILE,     64,  224 ; MARSHTOMP
-	mon_cry CRY_TOTODILE,      0,  288 ; SWAMPERT
+	mon_cry CRY_TREECKO,     128,  160 ; TREECKO
+	mon_cry CRY_TREECKO,      64,  224 ; GROVYLE
+	mon_cry CRY_TREECKO,       0,  288 ; SCEPTILE
+	mon_cry CRY_TORCHIC,     128,  160 ; TORCHIC
+	mon_cry CRY_TORCHIC,      64,  224 ; COMBUSKEN
+	mon_cry CRY_TORCHIC,       0,  288 ; BLAZIKEN
+	mon_cry CRY_MUDKIP,      128,  160 ; MUDKIP
+	mon_cry CRY_MUDKIP,       64,  224 ; MARSHTOMP
+	mon_cry CRY_MUDKIP,        0,  288 ; SWAMPERT
 ; Early routes
-	mon_cry CRY_GROWLITHE,   192,  144 ; POOCHYENA
-	mon_cry CRY_GROWLITHE,    96,  224 ; MIGHTYENA
-	mon_cry CRY_SENTRET,     128,  160 ; ZIGZAGOON
-	mon_cry CRY_SENTRET,      64,  224 ; LINOONE
+	mon_cry CRY_POOCHYENA,   192,  144 ; POOCHYENA
+	mon_cry CRY_POOCHYENA,    96,  224 ; MIGHTYENA
+	mon_cry CRY_ZIGZAGOON,   128,  160 ; ZIGZAGOON
+	mon_cry CRY_ZIGZAGOON,    64,  224 ; LINOONE
 ; Bug types
-	mon_cry CRY_CATERPIE,    160,  129 ; WURMPLE
-	mon_cry CRY_METAPOD,     180,  144 ; SILCOON
-	mon_cry CRY_VENONAT,     200,  192 ; BEAUTIFLY
-	mon_cry CRY_METAPOD,     140,  144 ; CASCOON
-	mon_cry CRY_VENONAT,     160,  192 ; DUSTOX
+	mon_cry CRY_WURMPLE,     160,  129 ; WURMPLE
+	mon_cry CRY_WURMPLE,     180,  144 ; SILCOON
+	mon_cry CRY_WURMPLE,     200,  192 ; BEAUTIFLY
+	mon_cry CRY_WURMPLE,     140,  144 ; CASCOON
+	mon_cry CRY_WURMPLE,     160,  192 ; DUSTOX
 ; Lotad family
-	mon_cry CRY_ODDISH,      192,  144 ; LOTAD
-	mon_cry CRY_ODDISH,      128,  192 ; LOMBRE
-	mon_cry CRY_ODDISH,       64,  256 ; LUDICOLO
+	mon_cry CRY_LOTAD,       192,  144 ; LOTAD
+	mon_cry CRY_LOTAD,       128,  192 ; LOMBRE
+	mon_cry CRY_LOTAD,        64,  256 ; LUDICOLO
 ; Seedot family
-	mon_cry CRY_PARAS,       192,  144 ; SEEDOT
-	mon_cry CRY_PARAS,       128,  192 ; NUZLEAF
-	mon_cry CRY_PARAS,        64,  256 ; SHIFTRY
+	mon_cry CRY_SEEDOT,      192,  144 ; SEEDOT
+	mon_cry CRY_SEEDOT,      128,  192 ; NUZLEAF
+	mon_cry CRY_SEEDOT,       64,  256 ; SHIFTRY
 ; Flying types
-	mon_cry CRY_PIDGEY,      200,  144 ; TAILLOW
-	mon_cry CRY_PIDGEY,      140,  192 ; SWELLOW
-	mon_cry CRY_SPEAROW,     180,  160 ; WINGULL
-	mon_cry CRY_SPEAROW,     120,  224 ; PELIPPER
+	mon_cry CRY_TAILLOW,     200,  144 ; TAILLOW
+	mon_cry CRY_TAILLOW,     140,  192 ; SWELLOW
+	mon_cry CRY_WINGULL,     180,  160 ; WINGULL
+	mon_cry CRY_WINGULL,     120,  224 ; PELIPPER
 ; Ralts family
-	mon_cry CRY_CLEFAIRY,    220,  144 ; RALTS
-	mon_cry CRY_CLEFAIRY,    160,  192 ; KIRLIA
-	mon_cry CRY_CLEFAIRY,    100,  256 ; GARDEVOIR
+	mon_cry CRY_RALTS,       220,  144 ; RALTS
+	mon_cry CRY_RALTS,       160,  192 ; KIRLIA
+	mon_cry CRY_RALTS,       100,  256 ; GARDEVOIR
 ; Surskit family
-	mon_cry CRY_SPINARAK,    180,  160 ; SURSKIT
-	mon_cry CRY_SPINARAK,    120,  224 ; MASQUERAIN
+	mon_cry CRY_SURSKIT,     180,  160 ; SURSKIT
+	mon_cry CRY_SURSKIT,     120,  224 ; MASQUERAIN
 ; Shroomish family
-	mon_cry CRY_VILEPLUME,   200,  144 ; SHROOMISH
-	mon_cry CRY_VILEPLUME,   140,  224 ; BRELOOM
+	mon_cry CRY_SHROOMISH,   200,  144 ; SHROOMISH
+	mon_cry CRY_SHROOMISH,   140,  224 ; BRELOOM
 ; Slakoth family
-	mon_cry CRY_SLOWPOKE,    160,  192 ; SLAKOTH
-	mon_cry CRY_SLOWPOKE,    100,  256 ; VIGOROTH
-	mon_cry CRY_SLOWPOKE,     40,  320 ; SLAKING
+	mon_cry CRY_SLAKOTH,     160,  192 ; SLAKOTH
+	mon_cry CRY_SLAKOTH,     100,  256 ; VIGOROTH
+	mon_cry CRY_SLAKOTH,      40,  320 ; SLAKING
 ; Nincada family
-	mon_cry CRY_DIGLETT,     180,  144 ; NINCADA
-	mon_cry CRY_DIGLETT,     120,  192 ; NINJASK
-	mon_cry CRY_DIGLETT,      60,  256 ; SHEDINJA
+	mon_cry CRY_NINCADA,     180,  144 ; NINCADA
+	mon_cry CRY_NINCADA,     120,  192 ; NINJASK
+	mon_cry CRY_NINCADA,      60,  256 ; SHEDINJA
 ; Whismur family
-	mon_cry CRY_MARILL,      200,  144 ; WHISMUR
-	mon_cry CRY_MARILL,      140,  224 ; LOUDRED
-	mon_cry CRY_MARILL,       80,  320 ; EXPLOUD
+	mon_cry CRY_WHISMUR,     200,  144 ; WHISMUR
+	mon_cry CRY_WHISMUR,     140,  224 ; LOUDRED
+	mon_cry CRY_WHISMUR,      80,  320 ; EXPLOUD
 ; Makuhita family
-	mon_cry CRY_NIDOQUEEN,   180,  160 ; MAKUHITA
-	mon_cry CRY_NIDOQUEEN,   100,  256 ; HARIYAMA
+	mon_cry CRY_MAKUHITA,    180,  160 ; MAKUHITA
+	mon_cry CRY_MAKUHITA,    100,  256 ; HARIYAMA
 ; Single/unique Pokemon
-	mon_cry CRY_PICHU,       220,  144 ; AZURILL
-	mon_cry CRY_GOLEM,       160,  192 ; NOSEPASS
+	mon_cry CRY_AZURILL,     220,  144 ; AZURILL
+	mon_cry CRY_NOSEPASS,    160,  192 ; NOSEPASS
 ; Skitty family
-	mon_cry CRY_VULPIX,      220,  144 ; SKITTY
-	mon_cry CRY_VULPIX,      160,  224 ; DELCATTY
+	mon_cry CRY_SKITTY,      220,  144 ; SKITTY
+	mon_cry CRY_SKITTY,      160,  224 ; DELCATTY
 ; Ghost/Dark types
-	mon_cry CRY_GRIMER,      180,  160 ; SABLEYE
-	mon_cry CRY_KANGASKHAN,  160,  192 ; MAWILE
+	mon_cry CRY_SABLEYE,     180,  160 ; SABLEYE
+	mon_cry CRY_MAWILE,      160,  192 ; MAWILE
 ; Aron family
-	mon_cry CRY_RHYDON,      200,  144 ; ARON
-	mon_cry CRY_RHYDON,      140,  224 ; LAIRON
-	mon_cry CRY_RHYDON,       80,  320 ; AGGRON
+	mon_cry CRY_ARON,        200,  144 ; ARON
+	mon_cry CRY_ARON,        140,  224 ; LAIRON
+	mon_cry CRY_ARON,         80,  320 ; AGGRON
 ; Meditite family
-	mon_cry CRY_DROWZEE,     180,  160 ; MEDITITE
-	mon_cry CRY_DROWZEE,     120,  224 ; MEDICHAM
+	mon_cry CRY_MEDITITE,    180,  160 ; MEDITITE
+	mon_cry CRY_MEDITITE,    120,  224 ; MEDICHAM
 ; Electric types
-	mon_cry CRY_VOLTORB,     180,  160 ; ELECTRIKE
-	mon_cry CRY_VOLTORB,     120,  224 ; MANECTRIC
-	mon_cry CRY_RAICHU,      200,  144 ; PLUSLE
-	mon_cry CRY_RAICHU,      180,  144 ; MINUN
+	mon_cry CRY_ELECTRIKE,   180,  160 ; ELECTRIKE
+	mon_cry CRY_ELECTRIKE,   120,  224 ; MANECTRIC
+	mon_cry CRY_PLUSLE,      200,  144 ; PLUSLE
+	mon_cry CRY_MINUN,       180,  144 ; MINUN
 ; Volbeat/Illumise
-	mon_cry CRY_LEDYBA,      160,  160 ; VOLBEAT
-	mon_cry CRY_LEDYBA,      140,  160 ; ILLUMISE
+	mon_cry CRY_VOLBEAT,     160,  160 ; VOLBEAT
+	mon_cry CRY_ILLUMISE,    140,  160 ; ILLUMISE
 ; Grass types
-	mon_cry CRY_SUNFLORA,    180,  160 ; ROSELIA
+	mon_cry CRY_ROSELIA,     180,  160 ; ROSELIA
 ; Gulpin family
-	mon_cry CRY_GRIMER,      220,  144 ; GULPIN
-	mon_cry CRY_GRIMER,      140,  256 ; SWALOT
+	mon_cry CRY_GULPIN,      220,  144 ; GULPIN
+	mon_cry CRY_GULPIN,      140,  256 ; SWALOT
 ; Water types
-	mon_cry CRY_KRABBY,      180,  160 ; CARVANHA
-	mon_cry CRY_KRABBY,      100,  256 ; SHARPEDO
-	mon_cry CRY_LAPRAS,      180,  192 ; WAILMER
-	mon_cry CRY_LAPRAS,       60,  383 ; WAILORD
+	mon_cry CRY_CARVANHA,    180,  160 ; CARVANHA
+	mon_cry CRY_CARVANHA,    100,  256 ; SHARPEDO
+	mon_cry CRY_WAILMER,     180,  192 ; WAILMER
+	mon_cry CRY_WAILMER,      60,  383 ; WAILORD
 ; Fire types
-	mon_cry CRY_SLUGMA,      180,  160 ; NUMEL
-	mon_cry CRY_SLUGMA,      100,  256 ; CAMERUPT
-	mon_cry CRY_MAGCARGO,    120,  224 ; TORKOAL
+	mon_cry CRY_NUMEL,       180,  160 ; NUMEL
+	mon_cry CRY_NUMEL,       100,  256 ; CAMERUPT
+	mon_cry CRY_TORKOAL,     120,  224 ; TORKOAL
 ; Psychic types
-	mon_cry CRY_TOGEPI,      200,  144 ; SPOINK
-	mon_cry CRY_TOGEPI,      140,  224 ; GRUMPIG
-	mon_cry CRY_GIRAFARIG,   160,  192 ; SPINDA
+	mon_cry CRY_SPOINK,      200,  144 ; SPOINK
+	mon_cry CRY_SPOINK,      140,  224 ; GRUMPIG
+	mon_cry CRY_SPINDA,      160,  192 ; SPINDA
 ; Trapinch family
-	mon_cry CRY_DIGLETT,     200,  144 ; TRAPINCH
-	mon_cry CRY_FEAROW,      140,  224 ; VIBRAVA
-	mon_cry CRY_FEAROW,       80,  320 ; FLYGON
+	mon_cry CRY_TRAPINCH,    200,  144 ; TRAPINCH
+	mon_cry CRY_TRAPINCH,    140,  224 ; VIBRAVA
+	mon_cry CRY_TRAPINCH,     80,  320 ; FLYGON
 ; Cacnea family
-	mon_cry CRY_EKANS,       180,  160 ; CACNEA
-	mon_cry CRY_EKANS,       100,  256 ; CACTURNE
+	mon_cry CRY_CACNEA,      180,  160 ; CACNEA
+	mon_cry CRY_CACNEA,      100,  256 ; CACTURNE
 ; Swablu family
-	mon_cry CRY_TOGETIC,     200,  144 ; SWABLU
-	mon_cry CRY_TOGETIC,     100,  288 ; ALTARIA
+	mon_cry CRY_SWABLU,      200,  144 ; SWABLU
+	mon_cry CRY_SWABLU,      100,  288 ; ALTARIA
 ; Rival Pokemon
-	mon_cry CRY_NIDORAN_M,   160,  192 ; ZANGOOSE
-	mon_cry CRY_NIDORAN_F,   140,  224 ; SEVIPER
+	mon_cry CRY_ZANGOOSE,    160,  192 ; ZANGOOSE
+	mon_cry CRY_SEVIPER,     140,  224 ; SEVIPER
 ; Rock types
-	mon_cry CRY_GOLEM,       200,  160 ; LUNATONE
-	mon_cry CRY_GOLEM,       180,  160 ; SOLROCK
+	mon_cry CRY_LUNATONE,    200,  160 ; LUNATONE
+	mon_cry CRY_SOLROCK,     180,  160 ; SOLROCK
 ; Barboach family
-	mon_cry CRY_PSYDUCK,     180,  160 ; BARBOACH
-	mon_cry CRY_PSYDUCK,     100,  256 ; WHISCASH
+	mon_cry CRY_BARBOACH,    180,  160 ; BARBOACH
+	mon_cry CRY_BARBOACH,    100,  256 ; WHISCASH
 ; Corphish family
-	mon_cry CRY_KRABBY,      200,  144 ; CORPHISH
-	mon_cry CRY_KRABBY,      120,  256 ; CRAWDAUNT
+	mon_cry CRY_CORPHISH,    200,  144 ; CORPHISH
+	mon_cry CRY_CORPHISH,    120,  256 ; CRAWDAUNT
 ; Baltoy family
-	mon_cry CRY_VOLTORB,     200,  160 ; BALTOY
-	mon_cry CRY_VOLTORB,     100,  288 ; CLAYDOL
+	mon_cry CRY_BALTOY,      200,  160 ; BALTOY
+	mon_cry CRY_BALTOY,      100,  288 ; CLAYDOL
 ; Fossil Pokemon
-	mon_cry CRY_PARAS,       200,  160 ; LILEEP
-	mon_cry CRY_PARAS,       100,  288 ; CRADILY
-	mon_cry CRY_SPINARAK,    200,  160 ; ANORITH
-	mon_cry CRY_SPINARAK,    100,  288 ; ARMALDO
+	mon_cry CRY_LILEEP,      200,  160 ; LILEEP
+	mon_cry CRY_LILEEP,      100,  288 ; CRADILY
+	mon_cry CRY_ANORITH,     200,  160 ; ANORITH
+	mon_cry CRY_ANORITH,     100,  288 ; ARMALDO
 ; Feebas family
-	mon_cry CRY_SEEL,        200,  144 ; FEEBAS
-	mon_cry CRY_SEEL,         80,  320 ; MILOTIC
+	mon_cry CRY_FEEBAS,      200,  144 ; FEEBAS
+	mon_cry CRY_FEEBAS,       80,  320 ; MILOTIC
 ; Unique Pokemon
-	mon_cry CRY_NATU,        160,  192 ; CASTFORM
-	mon_cry CRY_AIPOM,       180,  192 ; KECLEON
+	mon_cry CRY_CASTFORM,    160,  192 ; CASTFORM
+	mon_cry CRY_KECLEON,     180,  192 ; KECLEON
 ; Ghost types
-	mon_cry CRY_MUK,         220,  144 ; SHUPPET
-	mon_cry CRY_MUK,         140,  256 ; BANETTE
-	mon_cry CRY_GRIMER,      200,  160 ; DUSKULL
-	mon_cry CRY_GRIMER,      120,  288 ; DUSCLOPS
+	mon_cry CRY_SHUPPET,     220,  144 ; SHUPPET
+	mon_cry CRY_SHUPPET,     140,  256 ; BANETTE
+	mon_cry CRY_DUSKULL,     200,  160 ; DUSKULL
+	mon_cry CRY_DUSKULL,     120,  288 ; DUSCLOPS
 ; More unique Pokemon
-	mon_cry CRY_KANGASKHAN,  100,  288 ; TROPIUS
-	mon_cry CRY_CLEFFA,      200,  160 ; CHIMECHO
-	mon_cry CRY_ENTEI,       200,  192 ; ABSOL
-	mon_cry CRY_WOOPER,      220,  144 ; WYNAUT
+	mon_cry CRY_TROPIUS,     100,  288 ; TROPIUS
+	mon_cry CRY_CHIMECHO,    200,  160 ; CHIMECHO
+	mon_cry CRY_ABSOL,       200,  192 ; ABSOL
+	mon_cry CRY_WYNAUT,      220,  144 ; WYNAUT
 ; Ice types
-	mon_cry CRY_SEEL,        220,  144 ; SNORUNT
-	mon_cry CRY_SEEL,        120,  256 ; GLALIE
-	mon_cry CRY_MANTINE,     200,  160 ; SPHEAL
-	mon_cry CRY_MANTINE,     140,  224 ; SEALEO
-	mon_cry CRY_MANTINE,      80,  320 ; WALREIN
+	mon_cry CRY_SNORUNT,     220,  144 ; SNORUNT
+	mon_cry CRY_SNORUNT,     120,  256 ; GLALIE
+	mon_cry CRY_SPHEAL,      200,  160 ; SPHEAL
+	mon_cry CRY_SPHEAL,      140,  224 ; SEALEO
+	mon_cry CRY_SPHEAL,       80,  320 ; WALREIN
 ; Clamperl family
-	mon_cry CRY_SLOWKING,    200,  144 ; CLAMPERL
-	mon_cry CRY_SLOWKING,    140,  224 ; HUNTAIL
-	mon_cry CRY_SLOWKING,    120,  224 ; GOREBYSS
+	mon_cry CRY_CLAMPERL,    200,  144 ; CLAMPERL
+	mon_cry CRY_CLAMPERL,    140,  224 ; HUNTAIL
+	mon_cry CRY_CLAMPERL,    120,  224 ; GOREBYSS
 ; More unique Pokemon
-	mon_cry CRY_DUNSPARCE,   120,  256 ; RELICANTH
-	mon_cry CRY_CLEFAIRY,    240,  129 ; LUVDISC
+	mon_cry CRY_RELICANTH,   120,  256 ; RELICANTH
+	mon_cry CRY_LUVDISC,     240,  129 ; LUVDISC
 ; Bagon family
-	mon_cry CRY_CHARMANDER,  180,  160 ; BAGON
-	mon_cry CRY_CHARMANDER,  120,  224 ; SHELGON
-	mon_cry CRY_CHARMANDER,   40,  320 ; SALAMENCE
+	mon_cry CRY_BAGON,       180,  160 ; BAGON
+	mon_cry CRY_BAGON,       120,  224 ; SHELGON
+	mon_cry CRY_BAGON,        40,  320 ; SALAMENCE
 ; Beldum family
-	mon_cry CRY_MUK,         180,  160 ; BELDUM
-	mon_cry CRY_MUK,         100,  256 ; METANG
-	mon_cry CRY_MUK,          40,  383 ; METAGROSS
+	mon_cry CRY_BELDUM,      180,  160 ; BELDUM
+	mon_cry CRY_BELDUM,      100,  256 ; METANG
+	mon_cry CRY_BELDUM,       40,  383 ; METAGROSS
 ; Legendary Titans
-	mon_cry CRY_GOLEM,       100,  320 ; REGIROCK
-	mon_cry CRY_BLASTOISE,   100,  320 ; REGICE
-	mon_cry CRY_RHYDON,      100,  320 ; REGISTEEL
+	mon_cry CRY_REGIROCK,    100,  320 ; REGIROCK
+	mon_cry CRY_REGICE,      100,  320 ; REGICE
+	mon_cry CRY_REGISTEEL,   100,  320 ; REGISTEEL
 ; Legendary Eon duo
-	mon_cry CRY_RAIKOU,      160,  256 ; LATIAS
-	mon_cry CRY_RAIKOU,      120,  288 ; LATIOS
+	mon_cry CRY_LATIAS,      160,  256 ; LATIAS
+	mon_cry CRY_LATIOS,      120,  288 ; LATIOS
 ; Weather trio
-	mon_cry CRY_LAPRAS,       40,  383 ; KYOGRE
-	mon_cry CRY_TYPHLOSION,   40,  383 ; GROUDON
-	mon_cry CRY_DONPHAN,      20,  383 ; RAYQUAZA
+	mon_cry CRY_KYOGRE,       40,  383 ; KYOGRE
+	mon_cry CRY_GROUDON,      40,  383 ; GROUDON
+	mon_cry CRY_RAYQUAZA,     20,  383 ; RAYQUAZA
 ; Mythical Pokemon
-	mon_cry CRY_CLEFFA,      160,  224 ; JIRACHI
-	mon_cry CRY_AMPHAROS,     80,  320 ; DEOXYS
+	mon_cry CRY_JIRACHI,     160,  224 ; JIRACHI
+	mon_cry CRY_DEOXYS,       80,  320 ; DEOXYS
